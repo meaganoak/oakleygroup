@@ -1,10 +1,16 @@
 - title: "Carbene Complexes of Plutonium: Structure, Bonding, and Divergent Reactivity to Lanthanide Analogs"
   image: carbene.jpg
-  authors: Jesse Murillo, John A Seed, Ashley J Wooles, Meagan S Oakley, Conrad AP Goodwin, Matthew Gregson, David Dan, Nicholas F Chilton, Andrew J Gaunt, Stosh A Kozimor, Stephen T Liddle, Brian L Scott
+  authors: Jesse Murillo, John A Seed, Ashley J Wooles, Meagan S Oakley, Conrad AP Goodwin, Matthew Gregson, David Dan, Nicholas F Chilton, Andrew J Gaunt, Stosh A Kozimor, Stephen T Liddle, and Brian L Scott
   link:
     url: https://pubs.acs.org/doi/full/10.1021/jacs.3c12719
-    display: Journal of the Amercian Chemical Society, 2024, 146, 6, 4098-4111.
+    display: Journal of the Amercian Chemical Society, 2024, 146, 6, 4098-4111
   highlight: 1
   news2: See [news item](https://www.chemistryworld.com/news/plutonium-to-carbon-double-bond-a-first/4018953.article) by Julia Robinson and [news item](https://cen.acs.org/physical-chemistry/chemical-bonding/Plutonium-joins-carbene-club/102/web/2024/02?sc=230901_cenrssfeed_eng_latestnewsrss_cen) by Brianna Barbu
 
-
+- title: "First-Principles Study of Adsorption of Actinide Complexes on Borophene"
+  image: borophene.jpg
+  authors: Payal Grover, Meagan S. Oakley, and Georg Schreckenbach
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c07613 
+    display: Journal of Physical Chemistry C 2024, 128, 7, 3033–3042
+  highlight: 0
