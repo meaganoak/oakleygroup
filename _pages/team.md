@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
-## Staff
+## Leader
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -73,7 +73,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
