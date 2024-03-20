@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+## Highlights
 
 
 {% assign number_printed = 0 %}
