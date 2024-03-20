@@ -1,6 +1,6 @@
 - title: "Carbene Complexes of Plutonium: Structure, Bonding, and Divergent Reactivity to Lanthanide Analogs"
   image: carbene.jpg
-  authors: Jesse Murillo, John A Seed, Ashley J Wooles, <b>Meagan S. Oakley</b>, Conrad AP Goodwin, Matthew Gregson, David Dan, Nicholas F Chilton, Andrew J Gaunt, Stosh A Kozimor, Stephen T Liddle, and Brian L Scott
+  authors: Jesse Murillo, John A. Seed, Ashley J. Wooles, <b>Meagan S. Oakley</b>, Conrad A. P. Goodwin, Matthew Gregson, David Dan, Nicholas F. Chilton, Andrew J. Gaunt, Stosh A. Kozimor, Stephen T. Liddle, and Brian L. Scott
   link:
     url: https://pubs.acs.org/doi/full/10.1021/jacs.3c12719
     display: Journal of the Amercian Chemical Society, 2024, 146, 6, 4098-4111
@@ -48,7 +48,7 @@
     display: Journal of Chemical Theory and Computation 2023, 19, 20, 6933–6991
   highlight: 0
 
-- title: "Alkali Tin Halides: Exploring the Local Structure of A<sub>2</sub>~SnX~6~ (A = K, Rb; X = Cl, Br, I) Compounds Using Solid-State NMR and DFT Computations"
+- title: "Alkali Tin Halides: Exploring the Local Structure of A<sub>2</sub>SnX<sub>6</sub> (A = K, Rb; X = Cl, Br, I) Compounds Using Solid-State NMR and DFT Computations"
   image:
   authors: Brayden Glockzin, <b>Meagan S. Oakley</b>, Abhoy Karmakar, Arkadii Pominov, Aaron A. Mitchell, Xiaochuan Ma, Mariusz Klobukowski, and Vladimir K. Michaelis
   link:
@@ -62,6 +62,102 @@
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.2c04013
     display: Inorganic Chemistry 2023, 62, 4, 1649–1658
+  highlight: 0
+
+- title: "The effects of ring strain on cyclic tetraaryl [5] cumulenes"
+  image:
+  authors: Bozheng Sun, Meagan S. Oakley, Kota Yoshida, Yanwen Yang, Matteo Tommasini, Chiara Zanchi, Andrea Lucotti, Michael J. Ferguson, Frank Hampel, Mariusz Klobukowski and Rik R. Tykwinski
+  link:
+    url: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202200616
+    display: Chemistry - A European Journal, 2022, 28, 38, e202200616
+  highlight: 0
+
+- title: "Toward Sustained Cultural Change through Chemistry Graduate Student Diversity, Equity, and Inclusion Communities"
+  image:
+  authors: Jacky M. Deng, Leah E. McMunn, Meagan S. Oakley, Hoang T. Dang, and Rebeca S. Rodriguez
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.1c00485
+    display: Journal of Chemical Education 2022, 99, 1, 373–382
+  highlight: 0
+
+- title: "Multiconfiguration pair-density functional theory for transition metal silicide bond dissociation energies, bond lengths, and state orderings"
+  image:
+  authors: Meagan S. Oakley, Laura Gagliardi, Donald G. Truhlar
+  link:
+    url: https://www.mdpi.com/1420-3049/26/10/2881
+    display: Molecules 2021, 26 (10), 2881/1-15.
+  highlight: 0
+
+- title: "Analytic gradients for multiconfiguration pair-density functional theory with density fitting: Development and application to geometry optimization in the ground and excited states"
+  image:
+  authors: Thais R. Scott, Meagan S. Oakley, Matthew R. Hermes, Andrew M. Sand, Roland Lindh, Donald G. Truhlar, Laura Gagliardi
+  link:
+    url: https://pubs.aip.org/aip/jcp/article/154/7/074108/200913
+    display: The Journal of Chemical Physics 2021, 154, 074108/1-9
+  highlight: 0
+
+- title: "Starting grassroots initiatives to foster equity, diversity, and inclusivity in the Chemistry Department at the University of Alberta"
+  image:
+  authors: Sorina Chiorean, Meagan S. Oakley, Jocelyn Sinclair
+  link:
+    url: https://cdnsciencepub.com/doi/abs/10.1139/cjc-2020-0329
+    display: Canadian Journal of Chemistry 2021, 99, 8, 679
+  highlight: 0
+
+- title: "The future of scientific leadership is interdisciplinary: The 2019 CAS Future Leaders share their vision"
+  image:
+  authors: Jovana V. Milic, Andreas Ehnbom, Mahlet Garedew, Paulette Vincent-Ruz, Tracy H. Schloemer, Gregory K. Hodgson, Meagan S. Oakley, Koichi Sasaki, Subhash Chander, Marc-André Légaré, Cassandra E. Callmann, Aisha N. Bismillah, Dannie J.G.P. van Osch, Vanessa Sanchez, Nathan R.B. Boase, Dickson Mambwe, Connor W. Coley, Yuanxin Deng, Kerry N. Betz, Jesús Sanjosé-Orduna, Sean Natoli, Liang Zhang, Olga Bakulina, Ehsan Fereyduni, Jazmín Ciciolil Hilario-Martínez, Lucas Busta, Arianne Hunter, Yoonsu Park and Farnaz Haidar Zadeh
+  link:
+    url: https://www.cell.com/iscience/pdf/S2589-0042(20)30634-9.pdf
+    display: iScience 2020, 23, 101442/1-12
+  highlight: 0
+
+- title: "Analytic gradients for state-averaged multiconfiguration pair-density functional theory"
+  image:
+  authors: Thais R. Scott, Matthew R. Hermes, Andrew M. Sand, Meagan S. Oakley, Donald G. Truhlar, Laura Gagliardi
+  link:
+    url: https://pubs.aip.org/aip/jcp/article/153/1/014106/199087
+    display: The Journal of Chemical Physics 2020, 153, 014106/1-12
+  highlight: 0
+
+- title: "Mechanochemical synthesis of 0D and 3D cesium lead mixed halide perovskites"
+  image:
+  authors: Abhoy Karmakar, Mya S. Dodd, Xiaoyue Zhang, Meagan S. Oakley, Mariusz Klobukowski, Vladimir K. Michaelis
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2019/cc/c8cc09622h/unauth
+    display: Chemical Communications 2019, 55, 5079-5082
+  highlight: 0
+
+- title: "ΔDFT/MIX: A reliable and efficient method for calculating core electron binding energies of large molecules"
+  image:
+  authors: Meagan S. Oakley, Mariusz Klobukowski
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0368204818300343
+    display: Journal of Electron Spectroscopy and Related Phenomena 2018, 227, 44-50
+  highlight: 0
+
+- title: "Multireference Methods for Calculating the Dissociation Enthalpy of Tetrahedral P<sub>4</sub> to Two P<sub>2</sub>"
+  image:
+  authors: Meagan S. Oakley, Jie J. Bao, Mariusz Klobukowski, Donald G. Truhlar, Laura Gagliardi
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b12366
+    display: Journal of Physical Chemistry A 2018, 122, 26, 5742–5749
+  highlight: 0
+
+- title: "Engaging dual donor sites within an N-heterocyclic olefin phosphine ligand"
+  image:
+  authors: Melanie W. Lui, Olena Shynkaruk, Meagan S. Oakley, Regina Sinelnikov, Robert McDonald, Michael J. Ferguson, Al Meldrum, Mariusz Klobukowski, Eric Rivard
+  link:
+    url: https://pubs.rsc.org/en/content/articlehtml/2017/dt/c7dt00398f
+    display: Dalton Transactions 2017, 46, 5946-5954
+  highlight: 0
+
+- title: "Computing UV–vis spectra of 1-bromo-1-propene: a comparison of model core potential and all-electron basis sets"
+  image:
+  authors: Meagan S. Oakley, Mariusz Klobukowski
+  link:
+    url: https://cdnsciencepub.com/doi/abs/10.1139/cjc-2016-0518
+    display: Canadian Journal of Chemistry 2017, 95, 5, 627
   highlight: 0
 
 
