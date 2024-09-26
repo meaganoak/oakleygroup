@@ -1,7 +1,15 @@
+- name: Lana Francis
+  photo: lana.jpg
+  info: PhD student
+  email: alannah.francis@postgrad.manchester.ac.uk
+  number_educ: 2
+  education1: PhD co-supervised with <a href="http://millsgroup.weebly.com/">Michael Baker</a>
+  education2: Lana completed her MChem at Cardiff University with a placement year abroad at the University of Florida. Both projects focused on benchmarking electronic structure theory methods. Her PhD project focuses on modelling X-ray spectra of actinides.
+
 - name: Kholil Rahman
   photo: kholil.jpg
   info: PhD student
-  email: mohammed.rahman-6@student.manchester.ac.uk
+  email: mohammed.rahman-20@postgrad.manchester.ac.uk
   number_educ: 2
   education1: PhD co-supervised with <a href="http://millsgroup.weebly.com/">David Mills</a> and <a href="https://nfchilton.com/">Nicholas Chilton</a>
   education2: Kholil completed his MChem at the University of Manchester, where his fourth year project focused on establishing magneto structural relationships of hypothetical dysprosium complexes under the supervision of Prof Nicholas Chilton. As a PhD student, his project is focused on the electronic structure of novel transition metal complexes.
