@@ -1,10 +1,9 @@
 - name: Meagan Oakley
   photo: meagan.jpg
-  info: Dame Kathleen Ollerenshaw Research Fellow
+  info: Group Leader & Dame Kathleen Ollerenshaw Research Fellow
   email: meagan.oakley@manchester.ac.uk
-  number_educ: 5
-  education1: PhD with <a href="https://www.chem.ualberta.ca/~klobukowski/index.html">Mariusz Klobukowski</a>, University of Alberta
-  education2: Postdoc at the University of Minnesota with <a href="https://gagliardigroup.uchicago.edu/">Laura Gagliardi</a>
-  education3: Postdoc at the University of Manitoba with <a href="https://home.cc.umanitoba.ca/~schrecke/">Georg Schreckenbach</a>
-  education4: NSERC Postdoctoral Research Fellow at The University of Manchester with <a href="https://nfchilton.com/">Nicholas Chilton</a>
-  education5: <a href="https://twitter.com/meaganoakley" class="twitter-follow-button" data-show-count="false">Follow @meaganoakley</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  number_educ: 4
+  education3: PhD at the University of Alberta
+  education2: Postdocs at the University of Minnesota & University of Manitoba
+  education1: NSERC Postdoctoral Research Fellow at The University of Manchester
+  education4: <a href="https://twitter.com/meaganoakley" class="twitter-follow-button" data-show-count="false">Follow @meaganoakley</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
