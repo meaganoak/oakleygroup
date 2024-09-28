@@ -1,10 +1,34 @@
+- title: "Trends in Methanol-solvated Actinide Ions and Actinide Expanded Porphyrin Complexes"
+  image:
+  authors: <b>Meagan S. Oakley</b>, Georg Schreckenbach
+  link:
+    url:
+    display: Inorganic Chemistry, 2024, under review
+  highlight: 0
+
+- title: "Synthesis and characterization of solvated lanthanide (II) bis (triisopropylsilyl) phosphide complexes"
+  image:
+  authors: Jack Baldwin, Adam Brookfield, George Whitehead, Louise Natrajan, Eric McInnes, <b>Meagan S. Oakley</b>, David Mills
+  link:
+    url: 
+    display: Inorganic Chemistry, 2024, under review
+  highlight: 0
+
+- title: "Isolation and electronic structures of lanthanide (II) bis (trimethylsilyl) phosphide complexes"
+  image:
+  authors: Jack Baldwin, Adam Brookfield, George FS Whitehead, Louise S Natrajan, Eric JL McInnes, <b>Meagan S. Oakley</b>, David P Mills
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.4c02888
+    display: Inorganic Chemistry, 2024, XXXX, XXX, XXX-XXX
+  highlight: 0
+
 - title: "A Relativistic Quantum Chemical Investigation of Actinide Covalency Measured by EPR Spectroscopy"
   image: 
   authors: Letitia Birnoschi, <b>Meagan S. Oakley</b>, Eric J. L McInnes, Nicholas F. Chilton
   link:
-    url: 
-    display: Journal of the Amercian Chemical Society, 2024, accepted April 19
-  highlight: 0
+    url: https://pubs.acs.org/doi/full/10.1021/jacs.4c01930
+    display: Journal of the Amercian Chemical Society, 2024, 146, 21, 14660-14671
+  highlight: 1
 
 - title: "Carbene Complexes of Plutonium: Structure, Bonding, and Divergent Reactivity to Lanthanide Analogs"
   image: carbene.jpg
@@ -12,7 +36,7 @@
   link:
     url: https://pubs.acs.org/doi/full/10.1021/jacs.3c12719
     display: Journal of the Amercian Chemical Society, 2024, 146, 6, 4098-4111
-  highlight: 1
+  highlight: 0
   news2: See this [news item](https://www.chemistryworld.com/news/plutonium-to-carbon-double-bond-a-first/4018953.article) by Julia Robinson and this [news item](https://cen.acs.org/physical-chemistry/chemical-bonding/Plutonium-joins-carbene-club/102/web/2024/02?sc=230901_cenrssfeed_eng_latestnewsrss_cen) by Brianna Barbu
 
 - title: "First-Principles Study of Adsorption of Actinide Complexes on Borophene"
