@@ -5,10 +5,11 @@ excerpt: "The Oakley Group: Vacancies"
 sitemap: false
 permalink: /vacancies
 ---
+<!--**We currently have one [PhD studentship](https://www.findaphd.com/phds/project/accurate-and-efficient-modelling-of-x-ray-spectra-for-the-nuclear-fuel-cycle/?p164814) for applicants interested in modelling X-ray spectra of actinide complexes and materials.**-->
 
 # Open positions
 
-**We currently have one [PhD studentship](https://www.findaphd.com/phds/project/accurate-and-efficient-modelling-of-x-ray-spectra-for-the-nuclear-fuel-cycle/?p164814) for applicants interested in modelling X-ray spectra of actinide complexes and materials.**
+There are currently no funded positions available in the group, however, see below for potential avenues of funding.
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working in the Oakley Group, please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest. 
