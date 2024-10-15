@@ -2,13 +2,17 @@
 layout: default
 ---
 
-<div id="homeid">
-  <!-- Group logo image at the top -->
-  <img src="images/logopic/grouplogo2.png" alt="Group Logo" style="display: block; max-width: 100%; height: auto; margin: 0 auto;">
-</div>
+<div class="container">
+  <div class="row">
+    <!-- Home content with the image -->
+    <div id="homeid" class="col-md-8">
+      <img src="images/logopic/grouplogo2.png" alt="Group Logo" style="display: block; max-width: 100%; height: auto;">
+    </div>
 
-<div id="newsid" style="margin-top: 20px;">
-  <!-- News section below the image, with some spacing to avoid overlap -->
-  {% include news.html %}
+    <!-- News section aligned side-by-side -->
+    <div id="newsid" class="col-md-4">
+      {% include news.html %}
+    </div>
+  </div>
 </div>
 
