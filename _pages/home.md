@@ -8,7 +8,7 @@ permalink: /
 
   <div id="homeid" class="col-sm-8">
 
-  <img src="images/logopic/grouplogo.png" alt="Group Logo">
+  <img src="images/logopic/grouplogo2.png" alt="Group Logo">
   </div>
 
 
