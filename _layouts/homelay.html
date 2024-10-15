@@ -6,14 +6,27 @@ layout: default
   #text-section {
     text-align: center; /* Center the text */
     margin-top: 20px; /* Space above the text */
-    font-size: 1.5rem; /* Adjust font size (you can change this value) */
+    font-size: 1.5rem; /* Adjust font size */
   }
+
   img {
     display: block;
     max-width: 100%;
     height: auto;
     margin: 0 auto; /* Center the image */
   }
+
+  /* Floating textbook style */
+  #floating-textbook {
+    position: relative; /* Position relative to the nearest positioned ancestor */
+    margin-bottom: 20px; /* Space below the textbox */
+    background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent background */
+    border: 1px solid #ccc; /* Optional border */
+    padding: 20px; /* Space inside the box */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Add shadow for depth */
+    z-index: 10; /* Ensure it appears above other elements */
+  }
+
 </style>
 
 <div class="container">
@@ -22,18 +35,26 @@ layout: default
     <div id="homeid" class="col-md-8">
       <img src="images/logopic/grouplogo2.png" alt="Group Logo">
 
-      <!-- Floating textbox -->
-      <div id="floating-textbox">
-        <h3>Floating Textbook Title</h3>
-        <h2>This is the content of the floating textbook. You can include any information you want here.</h2>
-	<h1> another level </h1>
+      <!-- Text section underneath the photo -->
+      <div id="text-section" class="col-md-8">
+        <p>
+          We use correlated quantum chemistry methods to compute the electronic structure and spectra of f-element systems, linking theory and experiment.
+        </p>
       </div>
-      
     </div>
 
-    <!-- News section aligned side-by-side -->
-    <div id="newsid" class="col-md-4">
-      {% include news.html %}
+    <!-- Floating textbook and news section aligned side-by-side -->
+    <div class="col-md-4">
+      <!-- Floating textbook -->
+      <div id="floating-textbook">
+        <h3>Floating Textbook Title</h3>
+        <p>This is the content of the floating textbook. You can include any information you want here.</p>
+      </div>
+
+      <!-- News section -->
+      <div id="newsid">
+        {% include news.html %}
+      </div>
     </div>
   </div>
 </div>
