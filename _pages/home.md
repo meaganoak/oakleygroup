@@ -6,5 +6,7 @@ sitemap: false
 permalink: /
 ---
 
+![GroupLogo](/images/logopic/grouplogo.png)
+
 
 
