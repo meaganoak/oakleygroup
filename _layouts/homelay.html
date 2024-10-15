@@ -11,13 +11,13 @@ layout: default
 
   img {
     display: block;
-    max-width: 80%;
-    height: auto;
+    max-width: 100%; /* Ensure the image takes up 100% of the parent width */
+    height: auto; /* Maintain aspect ratio */
     margin: 0 auto; /* Center the image */
   }
 
   /* Floating textbook style */
-  #floating-textbook {
+  #floating-textbox {
     position: relative; /* Position relative to the nearest positioned ancestor */
     margin-bottom: 20px; /* Space below the textbox */
     background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent background */
@@ -27,6 +27,22 @@ layout: default
     z-index: 10; /* Ensure it appears above other elements */
   }
 
+  /* Additional responsive styles */
+  .container {
+    padding: 15px; /* Add padding to the container */
+  }
+
+  .row {
+    display: flex; /* Use flexbox for layout */
+    flex-wrap: wrap; /* Allow items to wrap */
+  }
+
+  /* Ensure columns take up proper width on small screens */
+  .col-md-6, .col-md-4 {
+    flex: 1; /* Allow columns to grow */
+    min-width: 300px; /* Set a minimum width */
+  }
+
 </style>
 
 <div class="container">
@@ -34,13 +50,12 @@ layout: default
     <!-- Home content with the image -->
     <div id="homeid" class="col-md-6">
       <img src="images/logopic/grouplogo2_bottomtext.png" alt="Group Logo">
-
     </div>
 
     <div class="col-md-4">
       <!-- Floating textbox -->
       <div id="floating-textbox">
-        <h4 style="text-align: center;">In the Oakley Group, we use correlated quantum chemistry methods to compute f-element electronic structure and spectra, linking theory with experiment.</center></h4>
+        <h4 style="text-align: center;">In the Oakley Group, we use correlated quantum chemistry methods to compute f-element electronic structure and spectra, linking theory with experiment.</h4>
       </div>
 
       <!-- News section -->
