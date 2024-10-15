@@ -6,10 +6,4 @@ sitemap: false
 permalink: /
 ---
 
-  <div id="homeid" class="col-sm-6">
-
-  <img src="images/logopic/grouplogo2.png" alt="Group Logo">
-  </div>
-
-
 
