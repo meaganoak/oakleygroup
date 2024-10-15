@@ -2,16 +2,10 @@
 layout: default
 ---
 
-<div id="homeid">
-  <!-- Add your picture here -->
-  <img src="images/logopic/grouplogo.png" alt="Group logo" style="width:100%;">
+  <div id="homeid" class="col-sm-8">
 
-  <!-- Content goes here, such as introductory text or main page content -->
-  {{ content }}
-</div>
-
-<div id="newsid">
-  <!-- News section included beneath the picture and content -->
-  {% include news.html %}
-</div>
-
+        {{ content }}
+  </div>
+  <div id="newsid" class="col-sm-4" >
+        {% include news.html %}
+  </div> 
