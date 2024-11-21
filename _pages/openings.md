@@ -30,7 +30,7 @@ The full list of funding opportunities and corresponding eligibilities can be fo
 There are currently no funded postdoctoral positions available. However, I would be happy to support external fellowship applications after registering interest in working with our group. 
 
 External funding opportunities: 
-- [Marie Skłodowska-Curie Actions – Individual Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+- [Marie Skłodowska-Curie Actions Individual Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 
 - [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
 
@@ -47,6 +47,4 @@ External funding opportunities:
 - [Leopoldina Postdoc Scholarship](https://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/leopoldina-postdoc-scholarship/) - German, Austrian, Swiss candidates only
 
 - [SNSF Postdoc Mobility Fellowship](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility) - Swiss candidates only
-
-- 
 
