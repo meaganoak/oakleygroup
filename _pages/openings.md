@@ -27,5 +27,26 @@ The full list of funding opportunities and corresponding eligibilities can be fo
 
 ### Applications for Postdoctoral Researcher positions
 
-There are currently no funded postdoctoral positions available. However, I would be happy to support fellowship applications after applying to our group. The [Marie Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) is one potential avenue for indepedent funding.
+There are currently no funded postdoctoral positions available. However, I would be happy to support external fellowship applications after registering interest in working with our group. 
+
+External funding opportunities: 
+- [Marie Skłodowska-Curie Actions – Individual Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
+
+- [EPSRC Postdoctoral Fellowships](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/)
+
+- [AXA Postdoctoral Fellowships](https://axa-research.org/fund-your-research/post-doctoral-fellowships)
+
+- [Newton International Fellowships](https://royalsociety.org/grants/newton-international/) - non-UK researchers
+
+- [NSERC Postdoctoral Fellowships](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) - Canadian candidates only
+
+- [Banting Postdoctoral Fellowships](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) - Canadian candidates only
+
+- [The Branco Weiss Fellowships](https://brancoweissfellowship.org/who-should-apply/)
+
+- [Leopoldina Postdoc Scholarship](https://www.leopoldina.org/en/funding/leopoldina-fellowship-programme/leopoldina-postdoc-scholarship/) - German, Austrian, Swiss candidates only
+
+- [SNSF Postdoc Mobility Fellowship](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility) - Swiss candidates only
+
+- 
 
