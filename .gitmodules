@@ -1,0 +1,3 @@
+[submodule "whatisthis"]
+	path = whatisthis
+	url = https://github.com/juanmanueldaza/pokedex.git
