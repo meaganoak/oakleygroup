@@ -12,7 +12,7 @@ permalink: /vacancies
 There are currently no funded positions available in the group, however, see below for potential avenues of funding.
 
 ### Applications for Undergraduate Research positions
-Departmental (and Royal Society of Chemistry) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. 
+Departmental (and Royal Society of Chemistry) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. Other opportunities through the University of Manchester are also available through the [Learning Through Research Research Student Experience Internships](https://www.careers.manchester.ac.uk/findjobs/internships/2ndyear/sei/).
 
 ### Applications for Postrgraduate Researcher (PhD) positions
 If you are interested in working in the Oakley Group, please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest. 
