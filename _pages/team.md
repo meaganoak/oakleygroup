@@ -7,7 +7,7 @@ permalink: /team/
 ---
 
 <div class="text-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2025_a.jpg" class="img-responsive" style="max-width: 80%; margin: 20px auto;" alt="The Oakley Group, 2025" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2025_a.jpg" class="img-responsive" style="max-width: 60%; margin: 20px auto;" alt="The Oakley Group, 2025" />
 </div>
 
 {% assign number_printed = 0 %}
