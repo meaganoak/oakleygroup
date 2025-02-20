@@ -5,11 +5,15 @@ excerpt: "The Oakley Group: Vacancies"
 sitemap: false
 permalink: /vacancies
 ---
-<!--**We currently have one [PhD studentship](https://www.findaphd.com/phds/project/accurate-and-efficient-modelling-of-x-ray-spectra-for-the-nuclear-fuel-cycle/?p164814) for applicants interested in modelling X-ray spectra of actinide complexes and materials.**-->
+<!--**There are currently no funded positions available in the group, however, see below for potential avenues of funding.**-->
 
 # Open positions
 
-There are currently no funded positions available in the group, however, see below for potential avenues of funding.
+We currently have two open PhD studentships in collaboration with other researchers at the University of Manchester: 
+
+- [An opportunity to define important trends in actinide covalency and relativistic expansion](https://www.findaphd.com/phds/project/an-opportunity-to-define-important-trends-in-actinide-covalency-and-relativistic-expansion/?p181201) with Dr Michael Baker and Dr Louise Natrajan.
+
+- [Defining the Electronic Structures of (Hetero)Metallocene Anions](https://www.findaphd.com/phds/project/defining-the-electronic-structures-of-hetero-metallocene-anions-he-man/?p179973) with Prof David Mills and Prof Nicholas Chilton.
 
 ### Applications for Undergraduate Research positions
 Departmental (and Royal Society of Chemistry) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. Other opportunities through the University of Manchester are also available through the [Learning Through Research Research Student Experience Internships](https://www.careers.manchester.ac.uk/findjobs/internships/2ndyear/sei/).
