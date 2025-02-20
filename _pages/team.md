@@ -8,7 +8,8 @@ permalink: /team/
 
 <div class="text-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2025.jpg" class="img-responsive" style="max-width: 60%; margin: 20px auto;" alt="The Oakley Group, 2025" />
-  <h3 style="margin-top: 10px;">The Oakley Group</h3>
+  <h3 style="margin-top: 10px;">The Oakley Group, 2025</h3>
+  <br><br>
 </div>
 
 {% assign number_printed = 0 %}
