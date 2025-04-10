@@ -16,7 +16,7 @@ We currently have two open PhD studentships in collaboration with other research
 - [Defining the Electronic Structures of (Hetero)Metallocene Anions](https://www.findaphd.com/phds/project/defining-the-electronic-structures-of-hetero-metallocene-anions-he-man/?p179973) with Prof David Mills and Prof Nicholas Chilton.
 
 ### Applications for Undergraduate Research positions
-Departmental (and Royal Society of Chemistry) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. Other opportunities through the University of Manchester are also available through the [Learning Through Research Research Student Experience Internships](https://www.careers.manchester.ac.uk/findjobs/internships/2ndyear/sei/).
+Departmental (and [Royal Society of Chemistry](https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/)) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. Other opportunities through the University of Manchester are also available through the [Learning Through Research Research Student Experience Internships](https://www.careers.manchester.ac.uk/findjobs/internships/2ndyear/sei/).
 
 ### Applications for Postgraduate Researcher (PhD) positions
 If you are interested in working in the Oakley Group, please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest. 
