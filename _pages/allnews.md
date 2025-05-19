@@ -10,7 +10,7 @@ permalink: /news.html
   <div class="news-item" style="margin-bottom: 2rem;">
     <strong>{{ article.date }}</strong>
     <p>{{ article.headline }}</p>
-
+    
     {% if article.image %}
       <img src="{{ article.image }}" alt="Photo for {{ article.headline }}" style="max-width: 300px; margin-top: 10px;">
     {% endif %}
