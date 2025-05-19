@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: textlay
+layout: page
 excerpt: "The Oakley Group @ The University of Manchester"
 sitemap: false
 permalink: /news.html
