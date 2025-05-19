@@ -12,9 +12,9 @@ Welcome to our group news page! Here you'll find recent updates and announcement
 ---
 
 {% for article in site.data.news %}
-### {{ article.date }}
+**{{ article.date }}**
 
-**{{ article.headline }}**
+{{ article.headline }}
 
 {% if article.image %}
 <img src="{{ article.image }}" alt="Photo for {{ article.headline }}" style="max-width: 300px; margin-top: 10px; margin-bottom: 20px;">
