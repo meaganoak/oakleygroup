@@ -5,10 +5,6 @@ excerpt: "The Oakley Group @ The University of Manchester"
 permalink: /news.html
 ---
 
-This page is where you'll find recent group updates and announcements.
-
----
-
 {% for article in site.data.news %}
 **{{ article.date }}**
 
