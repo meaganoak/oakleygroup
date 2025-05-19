@@ -5,9 +5,7 @@ excerpt: "The Oakley Group @ The University of Manchester"
 permalink: /news.html
 ---
 
-# News
-
-Welcome to our group news page! Here you'll find recent updates and announcements.
+This page is where you'll find recent group updates and announcements.
 
 ---
 
