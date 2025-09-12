@@ -269,7 +269,7 @@ permalink: /team/
 {% for member in site.data.previous %}
 <div class="row">
   <div class="col-sm-12 clearfix">
-    <h4>{{ member.name }}</h4>
+    <li>{{ member.name }}</li>
   </div>
 </div>
 {% endfor %}
