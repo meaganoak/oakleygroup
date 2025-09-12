@@ -264,8 +264,8 @@ permalink: /team/
 {% endif %}
 
 
-
 ## Group Alumni
+
 {% assign number_printed = 0 %}
 {% for member in site.data.previous %}
   <div class="row mb-3">
