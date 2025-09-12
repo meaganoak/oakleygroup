@@ -265,12 +265,6 @@ permalink: /team/
 
 
 ## Group Alumni
-<ul>
 {% for member in site.data.previous %}
-<div class="row">
-  <div class="col-sm-12 clearfix">
-    <li>{{ member.name }}</li>
-  </div>
-</div>
+<p>{{ member.name }}</p>
 {% endfor %}
-</ul>
