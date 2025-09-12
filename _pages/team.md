@@ -266,10 +266,10 @@ permalink: /team/
 
 ## Group Alumni
 
-{% assign number_printed = 0 %}
 {% for member in site.data.previous %}
-
 <div class="row">
-<div class="col-sm-12 clearfix">
-  <h4>{{ member.name }}</h4>
+  <div class="col-sm-12 clearfix">
+    <h4>{{ member.name }}</h4>
+  </div>
 </div>
+{% endfor %}
