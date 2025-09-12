@@ -279,12 +279,16 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
+{% assign number_printed = number_printed | modulo: 2 %}
 
 {% if even_odd == 1 %}
 <div class="row">
 </div>
 {% endif %}
+
+<div class="col-sm-12 clearfix">
+  <h4>{{ member.name }}</h4>
+</div>
 
 {% endfor %}
 
