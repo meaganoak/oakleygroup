@@ -13,7 +13,7 @@ permalink: /team/
 <p style="margin-top: 15px;">
     <a href="{{ site.baseurl }}/previous-groups/" 
        style="font-size: 16px; color: #555; text-decoration: none; border-bottom: 1px solid #ccc; padding-bottom: 2px;">
-      View previous group photos →
+      View previous group photos
     </a>
   </p>
 
