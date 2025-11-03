@@ -9,8 +9,16 @@ permalink: /team/
 <div class="text-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2026.jpeg" class="img-responsive" style="max-width: 45%; margin: 20px auto;" alt="The Oakley Group, 2026" />
   <h3 style="margin-top: 10px;">The Oakley Group, 2026</h3>
+
+  <p style="margin-top: 15px;">
+    <a href="{{ site.baseurl }}/previous-groups/" class="btn btn-default" style="font-size: 16px;">
+      View Previous Group Photos
+    </a>
+  </p>
+
   <br><br>
 </div>
+
 
 {% assign number_printed = 0 %}
 {% for member in site.data.meagan %}
