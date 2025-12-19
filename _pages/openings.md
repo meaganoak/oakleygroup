@@ -5,13 +5,14 @@ excerpt: "The Oakley Group: Vacancies"
 sitemap: false
 permalink: /vacancies
 ---
-<!--**There are currently no funded positions available in the group, however, see below for potential avenues of funding.**-->
 
 # Open positions
 
-We currently have one open PhD studentship in collaboration with other researchers at the University of Manchester: 
+We currently have one 2-year PDRA and one PhD studentship (UK students only) currently open: 
 
-- [An opportunity to define important trends in actinide covalency and relativistic expansion](https://www.findaphd.com/phds/project/an-opportunity-to-define-important-trends-in-actinide-covalency-and-relativistic-expansion/?p181201) with Dr Michael Baker and Dr Louise Natrajan.
+- 2-year PDRA position: [Adverst coming soon!](https://meaganoakley.com/vacancies)
+
+- Fully-funded PhD studenship: [Including Environmental Effects in Simulation of Actinide X-ray Spectroscopy](https://www.findaphd.com/phds/project/including-environmental-effects-in-simulation-of-actinide-x-ray-spectroscopy/?p193231)  with Dr Michael Baker and Prof Kath Morris.
 
 ### Applications for Undergraduate Research positions
 Departmental (and [Royal Society of Chemistry](https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/)) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. Other opportunities through the University of Manchester are also available through the [Learning Through Research Student Experience Internships](https://www.careers.manchester.ac.uk/findjobs/internships/2ndyear/sei/).
@@ -50,3 +51,4 @@ External funding opportunities:
 
 - [SNSF Postdoc Mobility Fellowship](https://www.snf.ch/en/XIZpfY3iVS5KRRoD/funding/careers/postdoc-mobility) - Swiss candidates only
 
+[//]: # "<!--**There are currently no funded positions available in the group, however, see below for potential avenues of funding.**-->"
