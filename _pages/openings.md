@@ -10,7 +10,7 @@ permalink: /vacancies
 
 We currently have one 2-year PDRA and one PhD studentship (UK students only) currently open: 
 
-- 2-year PDRA position: [Adverst coming soon!](https://meaganoakley.com/vacancies)
+- 2-year PDRA position: [Advert coming soon!](https://meaganoakley.com/vacancies)
 
 - Fully-funded PhD studenship: [Including Environmental Effects in Simulation of Actinide X-ray Spectroscopy](https://www.findaphd.com/phds/project/including-environmental-effects-in-simulation-of-actinide-x-ray-spectroscopy/?p193231)  with Dr Michael Baker and Prof Kath Morris.
 
