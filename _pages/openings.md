@@ -17,6 +17,8 @@ We currently have one 2-year PDRA and one PhD studentship (UK students only) cur
 ### Applications for Undergraduate Research positions
 Departmental (and [Royal Society of Chemistry](https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/)) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. Other opportunities through the University of Manchester are also available through the [Learning Through Research Student Experience Internships](https://www.careers.manchester.ac.uk/findjobs/internships/2ndyear/sei/).
 
+- Eligible Canadian students can apply for a [Mitacs Globalink Research Award](https://www.mitacs.ca/our-programs/globalink-research-award/) for a 12-24 week internship in our group.
+
 ### Applications for Postgraduate Researcher (PhD) positions
 If you are interested in working in the Oakley Group, please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest. 
 
@@ -27,6 +29,8 @@ If you are interested in working in the Oakley Group, please send me an [email](
 - UK-based PhD students may also apply for the [Postgraduate Research Teaching Associate (PGRTA) Scholarships](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/teaching-associate-scholarship/) which provides funding for a PhD with a combination of research and teaching. 
 
 The full list of funding opportunities and corresponding eligibilities can be found [here](https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/).
+
+- Eligible Canadian PhD students can apply for a [Mitacs Globalink Research Award](https://www.mitacs.ca/our-programs/globalink-research-award/) for a 12-24 week internship in our group.
 
 ### Applications for Postdoctoral Researcher positions
 
@@ -42,6 +46,8 @@ External funding opportunities:
 - [Newton International Fellowships](https://royalsociety.org/grants/newton-international/) - non-UK researchers
 
 - [NSERC Postdoctoral Fellowships](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp) - Canadian candidates only
+
+- [Mitacs Globalink Research Award](https://www.mitacs.ca/our-programs/globalink-research-award/) - Canadian candidates only, 12-24 week internship
 
 - [Banting Postdoctoral Fellowships](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html) - Canadian candidates only
 
