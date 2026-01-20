@@ -1,3 +1,19 @@
+- title: "Effects of Solvent Steric Bulk on Lanthanide Solvates from Experiment and Theory"
+  image: 
+  authors: Nicolaj Kofod*, Villads R. M. Nielsen, Tobias M. Nielsen, Thomas Just Sørensen, <b>Meagan S. Oakley*</b>, Kirsten M. Ø. Jensen*, Nicholas F. Chilton*
+  link:
+    url: https://chemrxiv.org/engage/chemrxiv/article-details/68da8d1cf416303770d94c61
+    display: ChemRxiv
+  highlight: 0
+
+- title: "Magnetic Hysteresis at 31 K in a Four-Coordinate Dysprosium(III) Amide Complex"
+  image: dysmm.jpg
+  authors: Benjamin L. L. Réant, William J. A. Blackmore, Nicolaj Kofod, John A. Seed, <b>Meagan S. Oakley*</b>, Conrad A. P. Goodwin*
+  link:
+    url: https://pubs.acs.org/doi/abs/10.1021/jacs.5c13255
+    display: J. Am. Chem. Soc. 2026, XXXX, XXX, XXX-XXX
+  highlight: 1
+
 - title: "Trends in Methanol-solvated Actinide Ions and Actinide Expanded Porphyrin Complexes"
   image:
   authors: <b>Meagan S. Oakley</b>, Georg Schreckenbach
@@ -28,7 +44,7 @@
   link:
     url: https://pubs.acs.org/doi/full/10.1021/jacs.4c01930
     display: Journal of the Amercian Chemical Society, 2024, 146, 21, 14660-14671
-  highlight: 1
+  highlight: 0
 
 - title: "Carbene Complexes of Plutonium: Structure, Bonding, and Divergent Reactivity to Lanthanide Analogs"
   image: carbene.jpg
