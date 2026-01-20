@@ -47,8 +47,10 @@ permalink: /publications/
 </div>
 {% endif %}
 
+
 <div style="margin-bottom: 40px;"></div>
 
+<br/><br/>
 
 ## Full List of publications
 
