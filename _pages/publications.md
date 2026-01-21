@@ -48,11 +48,15 @@ permalink: /publications/
 </div>
 {% endif %}
 
-## Full List of publications
+## Full list of publications
 
+<ol class="publication-list" reversed>
 {% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  <li>
+    <strong class="pub-title">{{ publi.title }}</strong><br>
+    <em>{{ publi.authors }}</em><br>
+    <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  </li>
 {% endfor %}
+</ol>
+
