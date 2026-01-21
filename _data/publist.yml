@@ -8,7 +8,7 @@
 
 - title: "Magnetic Hysteresis at 31 K in a Four-Coordinate Dysprosium(III) Amide Complex"
   image: dysmm.jpg
-  authors: Benjamin L. L. Réant, William J. A. Blackmore, Nicolaj Kofod, John A. Seed, **Meagan S. Oakley\***, Conrad A. P. Goodwin\*
+  authors: Benjamin L. L. Réant, William J. A. Blackmore, Nicolaj Kofod, John A. Seed, <strong>Meagan S. Oakley*</strong>, Conrad A. P. Goodwin*
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/jacs.5c13255
     display: J. Am. Chem. Soc. 2026, XXXX, XXX, XXX-XXX
@@ -16,7 +16,7 @@
 
 - title: "Trends in Methanol-solvated Actinide Ions and Actinide Expanded Porphyrin Complexes"
   image:
-  authors: <b>Meagan S. Oakley</b>, Georg Schreckenbach
+  authors: <strong>Meagan S. Oakley*</strong>, Georg Schreckenbach*
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.4c04503
     display: Inorganic Chemistry, 2025, 64, 1, 242-254
@@ -24,7 +24,7 @@
 
 - title: "Synthesis and characterization of solvated lanthanide (II) bis (triisopropylsilyl) phosphide complexes"
   image:
-  authors: Jack Baldwin, Adam Brookfield, George Whitehead, Louise Natrajan, Eric McInnes, <b>Meagan S. Oakley</b>, David Mills
+  authors: Jack Baldwin, Adam Brookfield, George F. S. Whitehead, Louise S. Natrajan*, Eric J. L. McInnes*, <strong>Meagan S. Oakley*</strong>, David P. Mills*
   link:
     url: https://pubs.acs.org/doi/10.1021/acs.inorgchem.4c03135
     display: Inorganic Chemistry, 2024, 63, 43, 20295–20306
@@ -32,7 +32,7 @@
 
 - title: "Isolation and electronic structures of lanthanide (II) bis (trimethylsilyl) phosphide complexes"
   image:
-  authors: Jack Baldwin, Adam Brookfield, George FS Whitehead, Louise S Natrajan, Eric JL McInnes, <b>Meagan S. Oakley</b>, David P Mills
+  authors: Jack Baldwin, Adam Brookfield, George F. S. Whitehead, Louise S. Natrajan*, Eric J. L. McInnes*, <strong>Meagan S. Oakley*</strong>, David P. Mills*
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.4c02888
     display: Inorganic Chemistry, 2024, 63, 39, 18120–18136
@@ -40,7 +40,7 @@
 
 - title: "A Relativistic Quantum Chemical Investigation of Actinide Covalency Measured by EPR Spectroscopy"
   image: hyperfine.gif
-  authors: Letitia Birnoschi, <b>Meagan S. Oakley</b>, Eric J. L McInnes, Nicholas F. Chilton
+  authors: Letitia Birnoschi, <strong>Meagan S. Oakley</strong>, Eric J. L. McInnes, Nicholas F. Chilton*
   link:
     url: https://pubs.acs.org/doi/full/10.1021/jacs.4c01930
     display: Journal of the Amercian Chemical Society, 2024, 146, 21, 14660-14671
@@ -48,7 +48,7 @@
 
 - title: "Carbene Complexes of Plutonium: Structure, Bonding, and Divergent Reactivity to Lanthanide Analogs"
   image: carbene.jpg
-  authors: Jesse Murillo, John A. Seed, Ashley J. Wooles, <b>Meagan S. Oakley</b>, Conrad A. P. Goodwin, Matthew Gregson, David Dan, Nicholas F. Chilton, Andrew J. Gaunt, Stosh A. Kozimor, Stephen T. Liddle, and Brian L. Scott
+  authors: Jesse Murillo, John A. Seed, Ashley J. Wooles, <strong>Meagan S. Oakley</strong>, Conrad A. P. Goodwin, Matthew Gregson, David Dan, Nicholas F. Chilton*, Andrew J. Gaunt*, Stosh A. Kozimor, Stephen T. Liddle*, Brian L. Scott
   link:
     url: https://pubs.acs.org/doi/full/10.1021/jacs.3c12719
     display: Journal of the Amercian Chemical Society, 2024, 146, 6, 4098-4111
@@ -57,7 +57,7 @@
 
 - title: "First-Principles Study of Adsorption of Actinide Complexes on Borophene"
   image: 
-  authors: Payal Grover, <b>Meagan S. Oakley</b>, and Georg Schreckenbach
+  authors: Payal Grover, <strong>Meagan S. Oakley</strong>, Georg Schreckenbach*
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c07613 
     display: Journal of Physical Chemistry C 2024, 128, 7, 3033–3042
@@ -65,7 +65,7 @@
 
 - title: "Metal–carbon bonding in early lanthanide substituted cyclopentadienyl complexes probed by pulsed EPR spectroscopy"
   image:
-  authors: Lydia E. Nodaraki, Jingjing Liu, Ana-Maria Ariciu, Fabrizio Ortu, <b>Meagan S. Oakley</b>, Letitia Birnoschi, Gemma K. Gransbury, Philip J. Cobb, Jack Emerson-King, Nicholas F. Chilton, David P. Mills, Eric J. L. McInnes and Floriana Tuna
+  authors: Lydia E. Nodaraki, Jingjing Liu, Ana-Maria Ariciu, Fabrizio Ortu, <strong>Meagan S. Oakley</strong>, Letitia Birnoschi, Gemma K. Gransbury, Philip J. Cobb, Jack Emerson-King, Nicholas F. Chilton*, David P. Mills*, Eric J. L. McInnes*, Floriana Tuna*
   link:
     url: https://pubs.rsc.org/en/content/articlehtml/2024/sc/d3sc06175b
     display: Chemical Science, 2024, 15, 3003-3010
@@ -74,7 +74,7 @@
 
 - title: "Uncovering the mechanism of selective stabilization of high-energy diastereoisomers via inclusion"
   image:
-  authors: <b>Meagan S. Oakley</b>, Madaline R. Oakes, Brian D. Wagner and Jason K. Pearson 
+  authors: <strong>Meagan S. Oakley*</strong>, Madaline R. Oakes, Brian D. Wagner, and Jason K. Pearson* 
   link:
     url: https://link.springer.com/article/10.1007/s00214-023-03077-7
     display: Theoretical Chemistry Accounts, 143, 4, 2024
@@ -82,7 +82,7 @@
 
 - title: "AtomAccess: A predictive tool for molecular design and its application to the targeted synthesis of dysprosium single-molecule magnets"
   image:
-  authors: Gemma K. Gransbury, Sophie C. Corner, Jon G. C. Kragskow, Peter Evans, Hing Man Yeung, William J. A. Blackmore, George F. S. Whitehead, Iñigo J. Vitorica-Yrezabal, <b>Meagan S. Oakley</b>, Nicholas F. Chilton, and David P. Mills
+  authors: Gemma K. Gransbury, Sophie C. Corner, Jon G. C. Kragskow, Peter Evans, Hing Man Yeung, William J. A. Blackmore, George F. S. Whitehead, Iñigo J. Vitorica-Yrezabal, <strong>Meagan S. Oakley</strong>, Nicholas F. Chilton*, David P. Mills*
   link:
     url: https://pubs.acs.org/doi/full/10.1021/jacs.3c08841
     display: Journal of American Chemical Society 2023, 145, 41, 22814–22825
@@ -90,7 +90,7 @@
 
 - title: "The OpenMolcas Web: A Community-Driven Approach to Advancing Computational Chemistry"
   image:
-  authors: Giovanni Li Manni, Ignacio Fdez. Galván, Ali Alavi, Flavia Aleotti, Francesco Aquilante, Jochen Autschbach, Davide Avagliano, Alberto Baiardi, Jie J. Bao, Stefano Battaglia, Letitia Birnoschi, Alejandro Blanco-González, Sergey I. Bokarev, Ria Broer, Roberto Cacciari, Paul B. Calio, Rebecca K. Carlson, Rafael Carvalho Couto, Luis Cerdán, Liviu F. Chibotaru, Nicholas F. Chilton, Jonathan Richard Church, Irene Conti, Sonia Coriani, Juliana Cuéllar-Zuquin, Razan E. Daoud, Nike Dattani, Piero Decleva, Coen de Graaf, Mickaël G. Delcey, Luca De Vico, Werner Dobrautz, Sijia S. Dong, Rulin Feng, Nicolas Ferré, Michael Filatov(Gulak), Laura Gagliardi, Marco Garavelli, Leticia González, Yafu Guan, Meiyuan Guo, Matthew R. Hennefarth, Matthew R. Hermes, Chad E. Hoyer, Miquel Huix-Rotllant, Vishal Kumar Jaiswal, Andy Kaiser, Danil S. Kaliakin, Marjan Khamesian, Daniel S. King, Vladislav Kochetov, Marek Krośnicki, Arpit Arun Kumaar, Ernst D. Larsson, Susi Lehtola, Marie-Bernadette Lepetit, Hans Lischka, Pablo López Ríos, Marcus Lundberg, Dongxia Ma, Sebastian Mai, Philipp Marquetand, Isabella C. D. Merritt, Francesco Montorsi, Maximilian Mörchen, Artur Nenov, Vu Ha Anh Nguyen, Yoshio Nishimoto, <b>Meagan S. Oakley</b>, Massimo Olivucci, Markus Oppel, Daniele Padula, Riddhish Pandharkar, Quan Manh Phung, Felix Plasser, Gerardo Raggi, Elisa Rebolini, Markus Reiher, Ivan Rivalta, Daniel Roca-Sanjuán, Thies Romig, Arta Anushirwan Safari, Aitor Sánchez-Mansilla, Andrew M. Sand, Igor Schapiro, Thais R. Scott, Javier Segarra-Martí, Francesco Segatta, Dumitru-Claudiu Sergentu, Prachi Sharma, Ron Shepard, Yinan Shu, Jakob K. Staab, Tjerk P. Straatsma, Lasse Kragh Sørensen, Bruno Nunes Cabral Tenorio, Donald G. Truhlar, Liviu Ungur, Morgane Vacher, Valera Veryazov, Torben Arne Voß, Oskar Weser, Dihua Wu, Xuchun Yang, David Yarkony, Chen Zhou, J. Patrick Zobel, and Roland Lindh
+  authors: Giovanni Li Manni*, Ignacio Fdez. Galván*, Ali Alavi, Flavia Aleotti, Francesco Aquilante, Jochen Autschbach, Davide Avagliano, Alberto Baiardi, Jie J. Bao, Stefano Battaglia, Letitia Birnoschi, Alejandro Blanco-González, Sergey I. Bokarev, Ria Broer, Roberto Cacciari, Paul B. Calio, Rebecca K. Carlson, Rafael Carvalho Couto, Luis Cerdán, Liviu F. Chibotaru, Nicholas F. Chilton, Jonathan Richard Church, Irene Conti, Sonia Coriani, Juliana Cuéllar-Zuquin, Razan E. Daoud, Nike Dattani, Piero Decleva, Coen de Graaf, Mickaël G. Delcey, Luca De Vico, Werner Dobrautz, Sijia S. Dong, Rulin Feng, Nicolas Ferré, Michael Filatov(Gulak), Laura Gagliardi, Marco Garavelli, Leticia González, Yafu Guan, Meiyuan Guo, Matthew R. Hennefarth, Matthew R. Hermes, Chad E. Hoyer, Miquel Huix-Rotllant, Vishal Kumar Jaiswal, Andy Kaiser, Danil S. Kaliakin, Marjan Khamesian, Daniel S. King, Vladislav Kochetov, Marek Krośnicki, Arpit Arun Kumaar, Ernst D. Larsson, Susi Lehtola, Marie-Bernadette Lepetit, Hans Lischka, Pablo López Ríos, Marcus Lundberg, Dongxia Ma, Sebastian Mai, Philipp Marquetand, Isabella C. D. Merritt, Francesco Montorsi, Maximilian Mörchen, Artur Nenov, Vu Ha Anh Nguyen, Yoshio Nishimoto, <strong>Meagan S. Oakley</strong>, Massimo Olivucci, Markus Oppel, Daniele Padula, Riddhish Pandharkar, Quan Manh Phung, Felix Plasser, Gerardo Raggi, Elisa Rebolini, Markus Reiher, Ivan Rivalta, Daniel Roca-Sanjuán, Thies Romig, Arta Anushirwan Safari, Aitor Sánchez-Mansilla, Andrew M. Sand, Igor Schapiro, Thais R. Scott, Javier Segarra-Martí, Francesco Segatta, Dumitru-Claudiu Sergentu, Prachi Sharma, Ron Shepard, Yinan Shu, Jakob K. Staab, Tjerk P. Straatsma, Lasse Kragh Sørensen, Bruno Nunes Cabral Tenorio, Donald G. Truhlar, Liviu Ungur, Morgane Vacher, Valera Veryazov, Torben Arne Voß, Oskar Weser, Dihua Wu, Xuchun Yang, David Yarkony, Chen Zhou, J. Patrick Zobel, Roland Lindh*
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00182
     display: Journal of Chemical Theory and Computation 2023, 19, 20, 6933–6991
@@ -98,7 +98,7 @@
 
 - title: "Alkali Tin Halides: Exploring the Local Structure of A<sub>2</sub>SnX<sub>6</sub> (A = K, Rb; X = Cl, Br, I) Compounds Using Solid-State NMR and DFT Computations"
   image:
-  authors: Brayden Glockzin, <b>Meagan S. Oakley</b>, Abhoy Karmakar, Arkadii Pominov, Aaron A. Mitchell, Xiaochuan Ma, Mariusz Klobukowski, and Vladimir K. Michaelis
+  authors: Brayden Glockzin, <strong>Meagan S. Oakley</strong>, Abhoy Karmakar, Arkadii Pominov, Aaron A. Mitchell, Xiaochuan Ma, Mariusz Klobukowski, Vladimir K. Michaelis*
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c08073
     display: Journal of Physical Chemistry C 2023, 127, 15, 7284–7298
@@ -106,7 +106,7 @@
 
 - title: "Theoretical Investigation of Single-Molecule-Magnet Behavior in Mononuclear Dysprosium and Californium Complexes"
   image:
-  authors: Debmalya Ray, <b>Meagan S. Oakley</b>, Arup Sarkar, Xiaojing Bai, and Laura Gagliardi
+  authors: Debmalya Ray, <strong>Meagan S. Oakley</strong>, Arup Sarkar, Xiaojing Bai, Laura Gagliardi*
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.inorgchem.2c04013
     display: Inorganic Chemistry 2023, 62, 4, 1649–1658
@@ -114,7 +114,7 @@
 
 - title: "The effects of ring strain on cyclic tetraaryl [5] cumulenes"
   image:
-  authors: Bozheng Sun, Meagan S. Oakley, Kota Yoshida, Yanwen Yang, Matteo Tommasini, Chiara Zanchi, Andrea Lucotti, Michael J. Ferguson, Frank Hampel, Mariusz Klobukowski and Rik R. Tykwinski
+  authors: Bozheng Sun, <strong>Meagan S. Oakley</strong>, Kota Yoshida, Yanwen Yang, Matteo Tommasini, Chiara Zanchi, Andrea Lucotti, Michael J. Ferguson, Frank Hampel, Mariusz Klobukowski Rik R. Tykwinski*
   link:
     url: https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202200616
     display: Chemistry - A European Journal, 2022, 28, 38, e202200616
@@ -122,7 +122,7 @@
 
 - title: "Toward Sustained Cultural Change through Chemistry Graduate Student Diversity, Equity, and Inclusion Communities"
   image:
-  authors: Jacky M. Deng, Leah E. McMunn, Meagan S. Oakley, Hoang T. Dang, and Rebeca S. Rodriguez
+  authors: Jacky M. Deng*, Leah E. McMunn, <strong>Meagan S. Oakley</strong>, Hoang T. Dang, and Rebeca S. Rodriguez
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jchemed.1c00485
     display: Journal of Chemical Education 2022, 99, 1, 373–382
@@ -130,7 +130,7 @@
 
 - title: "Multiconfiguration pair-density functional theory for transition metal silicide bond dissociation energies, bond lengths, and state orderings"
   image:
-  authors: Meagan S. Oakley, Laura Gagliardi, Donald G. Truhlar
+  authors: <strong>Meagan S. Oakley</strong>, Laura Gagliardi*, Donald G. Truhlar*
   link:
     url: https://www.mdpi.com/1420-3049/26/10/2881
     display: Molecules 2021, 26 (10), 2881/1-15.
@@ -138,7 +138,7 @@
 
 - title: "Analytic gradients for multiconfiguration pair-density functional theory with density fitting: Development and application to geometry optimization in the ground and excited states"
   image:
-  authors: Thais R. Scott, Meagan S. Oakley, Matthew R. Hermes, Andrew M. Sand, Roland Lindh, Donald G. Truhlar, Laura Gagliardi
+  authors: Thais R. Scott, <strong>Meagan S. Oakley</strong>, Matthew R. Hermes, Andrew M. Sand, Roland Lindh, Donald G. Truhlar*, Laura Gagliardi*
   link:
     url: https://pubs.aip.org/aip/jcp/article/154/7/074108/200913
     display: The Journal of Chemical Physics 2021, 154, 074108/1-9
@@ -146,7 +146,7 @@
 
 - title: "Starting grassroots initiatives to foster equity, diversity, and inclusivity in the Chemistry Department at the University of Alberta"
   image:
-  authors: Sorina Chiorean, Meagan S. Oakley, Jocelyn Sinclair
+  authors: Sorina Chiorean, <strong>Meagan S. Oakley*</strong>, Jocelyn Sinclair
   link:
     url: https://cdnsciencepub.com/doi/abs/10.1139/cjc-2020-0329
     display: Canadian Journal of Chemistry 2021, 99, 8, 679
@@ -154,7 +154,7 @@
 
 - title: "The future of scientific leadership is interdisciplinary: The 2019 CAS Future Leaders share their vision"
   image:
-  authors: Jovana V. Milic, Andreas Ehnbom, Mahlet Garedew, Paulette Vincent-Ruz, Tracy H. Schloemer, Gregory K. Hodgson, Meagan S. Oakley, Koichi Sasaki, Subhash Chander, Marc-André Légaré, Cassandra E. Callmann, Aisha N. Bismillah, Dannie J.G.P. van Osch, Vanessa Sanchez, Nathan R.B. Boase, Dickson Mambwe, Connor W. Coley, Yuanxin Deng, Kerry N. Betz, Jesús Sanjosé-Orduna, Sean Natoli, Liang Zhang, Olga Bakulina, Ehsan Fereyduni, Jazmín Ciciolil Hilario-Martínez, Lucas Busta, Arianne Hunter, Yoonsu Park and Farnaz Haidar Zadeh
+  authors: Jovana V. Milic*, Andreas Ehnbom*, Mahlet Garedew*, Paulette Vincent-Ruz, Tracy H. Schloemer, Gregory K. Hodgson, <strong>Meagan S. Oakley</strong>, Koichi Sasaki, Subhash Chander, Marc-André Légaré, Cassandra E. Callmann, Aisha N. Bismillah, Dannie J.G.P. van Osch, Vanessa Sanchez, Nathan R.B. Boase, Dickson Mambwe, Connor W. Coley, Yuanxin Deng, Kerry N. Betz, Jesús Sanjosé-Orduna, Sean Natoli, Liang Zhang, Olga Bakulina, Ehsan Fereyduni, Jazmín Ciciolil Hilario-Martínez, Lucas Busta, Arianne Hunter, Yoonsu Park, Farnaz Haidar Zadeh
   link:
     url: https://www.cell.com/iscience/pdf/S2589-0042(20)30634-9.pdf
     display: iScience 2020, 23, 101442/1-12
@@ -162,7 +162,7 @@
 
 - title: "Analytic gradients for state-averaged multiconfiguration pair-density functional theory"
   image:
-  authors: Thais R. Scott, Matthew R. Hermes, Andrew M. Sand, Meagan S. Oakley, Donald G. Truhlar, Laura Gagliardi
+  authors: Thais R. Scott, Matthew R. Hermes, Andrew M. Sand, <strong>Meagan S. Oakley</strong>, Donald G. Truhlar*, Laura Gagliardi*
   link:
     url: https://pubs.aip.org/aip/jcp/article/153/1/014106/199087
     display: The Journal of Chemical Physics 2020, 153, 014106/1-12
@@ -170,7 +170,7 @@
 
 - title: "Mechanochemical synthesis of 0D and 3D cesium lead mixed halide perovskites"
   image:
-  authors: Abhoy Karmakar, Mya S. Dodd, Xiaoyue Zhang, Meagan S. Oakley, Mariusz Klobukowski, Vladimir K. Michaelis
+  authors: Abhoy Karmakar, Mya S. Dodd, Xiaoyue Zhang, <strong>Meagan S. Oakley</strong>, Mariusz Klobukowski, Vladimir K. Michaelis*
   link:
     url: https://pubs.rsc.org/en/content/articlelanding/2019/cc/c8cc09622h/unauth
     display: Chemical Communications 2019, 55, 5079-5082
@@ -178,7 +178,7 @@
 
 - title: "ΔDFT/MIX: A reliable and efficient method for calculating core electron binding energies of large molecules"
   image:
-  authors: Meagan S. Oakley, Mariusz Klobukowski
+  authors: <strong>Meagan S. Oakley*</strong>, Mariusz Klobukowski
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0368204818300343
     display: Journal of Electron Spectroscopy and Related Phenomena 2018, 227, 44-50
@@ -186,7 +186,7 @@
 
 - title: "Multireference Methods for Calculating the Dissociation Enthalpy of Tetrahedral P<sub>4</sub> to Two P<sub>2</sub>"
   image:
-  authors: Meagan S. Oakley, Jie J. Bao, Mariusz Klobukowski, Donald G. Truhlar, Laura Gagliardi
+  authors: <strong>Meagan S. Oakley*</strong>, Jie J. Bao, Mariusz Klobukowski, Donald G. Truhlar, Laura Gagliardi
   link:
     url: https://pubs.acs.org/doi/abs/10.1021/acs.jpca.7b12366
     display: Journal of Physical Chemistry A 2018, 122, 26, 5742–5749
@@ -194,7 +194,7 @@
 
 - title: "Engaging dual donor sites within an N-heterocyclic olefin phosphine ligand"
   image:
-  authors: Melanie W. Lui, Olena Shynkaruk, Meagan S. Oakley, Regina Sinelnikov, Robert McDonald, Michael J. Ferguson, Al Meldrum, Mariusz Klobukowski, Eric Rivard
+  authors: Melanie W. Lui, Olena Shynkaruk, <strong>Meagan S. Oakley</strong>, Regina Sinelnikov, Robert McDonald, Michael J. Ferguson, Al Meldrum, Mariusz Klobukowski, Eric Rivard*
   link:
     url: https://pubs.rsc.org/en/content/articlehtml/2017/dt/c7dt00398f
     display: Dalton Transactions 2017, 46, 5946-5954
@@ -202,7 +202,7 @@
 
 - title: "Computing UV–vis spectra of 1-bromo-1-propene: a comparison of model core potential and all-electron basis sets"
   image:
-  authors: Meagan S. Oakley, Mariusz Klobukowski
+  authors: <strong>Meagan S. Oakley*</strong>, Mariusz Klobukowski
   link:
     url: https://cdnsciencepub.com/doi/abs/10.1139/cjc-2016-0518
     display: Canadian Journal of Chemistry 2017, 95, 5, 627
