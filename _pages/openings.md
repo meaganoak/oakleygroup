@@ -8,14 +8,12 @@ permalink: /vacancies
 
 # Open positions
 
-We currently have one 2-year PDRA and one PhD studentship (UK students only) currently open: 
-
-- 2-year PDRA position: [Actinide X-ray spectroscopy simulation](https://www.jobs.manchester.ac.uk/Job/JobDetail?isPreview=Yes&jobid=34329&advert=external)
-
-- Fully-funded PhD studenship: [Including Environmental Effects in Simulation of Actinide X-ray Spectroscopy](https://www.findaphd.com/phds/project/including-environmental-effects-in-simulation-of-actinide-x-ray-spectroscopy/?p193231)  with Dr Michael Baker and Prof Kath Morris.
+We do not currently have any open positions, but below are a list of potential funding avenues. 
 
 ### Applications for Undergraduate Research positions
 Departmental (and [Royal Society of Chemistry](https://www.rsc.org/prizes-funding/funding/find-funding/undergraduate-research-bursaries/)) undergraduate research bursaries open in January each year. Please send me an [email](mailto:meagan.oakley@manchester.ac.uk) along with a current CV and a brief statement of interest before January and we will apply together. Other opportunities through the University of Manchester are also available through the [Learning Through Research Student Experience Internships](https://www.careers.manchester.ac.uk/findjobs/internships/2ndyear/sei/).
+
+- The [Porter Prize]( https://saltersinstitute.org/programmes/awards/porter-prize/) supports undergraduate research (not yet in their final year).
 
 - Eligible Canadian students can apply for a [Mitacs Globalink Research Award](https://www.mitacs.ca/our-programs/globalink-research-award/) for a 12-24 week internship in our group.
 
