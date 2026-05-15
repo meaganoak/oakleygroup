@@ -26,6 +26,3 @@ permalink: /pokedex/
   </div>
 
 </div>
-
-<script src="/js/script.js"></script>
-<link rel="stylesheet" href="/css/style.css">
