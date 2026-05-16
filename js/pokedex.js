@@ -1,37 +1,42 @@
-const team = [
   {
     name: "MEAGAN",
     role: "Head of Oak's Laboratory",
-    bio: "Obsessed with computers",
+    type: "Fire",
+    bio: "A computational chemist studying molecular systems through simulation and theory. Known for spending lots of rare candies on nodes. Frequently upgrades the Pokédex software late at night.",
     image: "/images/pokedex/meagan.jpg"
-  }, 
+  },
   {
     name: "LANA",
-    role: "Gym leader",
+    role: "",
+    type: "",
     bio: "",
     image: "/images/pokedex/lana.jpg"
-  }, 
+  },
   {
     name: "FATHIMA",
-    role: "????",
+    role: "",
+    type: "",
     bio: "",
     image: "/images/pokedex/fathima.jpg"
   },
   {
     name: "FFION",
-    role: "????",
+    role: "",
+    type: "",
     bio: "",
     image: "/images/pokedex/ffion.jpg"
   },
   {
     name: "NICOLAJ",
-    role: "????",
+    role: "",
+    type: "",
     bio: "",
     image: "/images/pokedex/nicolaj.jpg"
   },
   {
     name: "IEUAN",
-    role: "???",
+    role: "",
+    type: "Water",
     bio: "",
     image: "/images/pokedex/ieuan.jpg"
   },
