@@ -50,3 +50,5 @@ document.addEventListener("keydown", (e) => {
     renderMember()
   }
 })
+
+renderMember()
