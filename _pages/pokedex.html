@@ -5,9 +5,14 @@ permalink: /pokedex/
 
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>TeamDex</title>
+
+  <link
+    href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+    rel="stylesheet">
 
   <link rel="stylesheet" href="/css/pokedex.css">
 </head>
@@ -16,23 +21,105 @@ permalink: /pokedex/
 
 <div class="pokedex">
 
-  <div class="left-panel">
-    <div class="screen">
-      <img id="member-image" src="" alt="" />
+  <!-- TOP LIGHTS -->
+  <div class="top-bar">
+
+    <div class="big-light"></div>
+
+    <div class="small-lights">
+      <div class="light red"></div>
+      <div class="light yellow"></div>
+      <div class="light green"></div>
     </div>
 
-    <div class="dpad">
-      <button id="prev">◀</button>
-      <button id="next">▶</button>
-    </div>
   </div>
 
-  <div class="right-panel">
-    <div class="info-screen">
-      <h1 id="member-name"></h1>
-      <h2 id="member-role"></h2>
-      <p id="member-bio"></p>
+  <!-- LEFT PANEL -->
+  <div class="left-panel">
+
+    <div class="screen-frame">
+
+      <div class="tiny-lights">
+        <div class="tiny red"></div>
+        <div class="tiny yellow"></div>
+        <div class="tiny green"></div>
+      </div>
+
+      <div class="screen">
+        <img id="member-image" src="" alt="" />
+      </div>
+
     </div>
+
+    <!-- CONTROLS -->
+    <div class="controls">
+
+      <div class="dpad">
+        <div class="dpad-up"></div>
+        <div class="dpad-left"></div>
+        <div class="dpad-center"></div>
+        <div class="dpad-right"></div>
+        <div class="dpad-down"></div>
+      </div>
+
+      <div class="middle-controls">
+
+        <div class="speaker-lines">
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+
+        <div class="green-button"></div>
+
+      </div>
+
+      <div class="arrow-buttons">
+        <button id="prev">◀</button>
+        <button id="next">▶</button>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- HINGE -->
+  <div class="hinge"></div>
+
+  <!-- RIGHT PANEL -->
+  <div class="right-panel">
+
+    <div class="info-screen">
+
+      <h1 id="member-name"></h1>
+
+      <div class="divider"></div>
+
+      <h2 id="member-role"></h2>
+
+      <p id="member-bio"></p>
+
+    </div>
+
+    <div class="bottom-controls">
+
+      <div class="blue-button"></div>
+
+      <div class="small-black-buttons">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+
+      <div class="speaker-grid">
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div>
+      </div>
+
+    </div>
+
   </div>
 
 </div>
