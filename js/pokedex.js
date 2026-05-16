@@ -3,13 +3,13 @@ const team = [
     name: "MEAGAN",
     role: "Head of Oak's Laboratory",
     bio: "Obsessed with computers",
-    image: "/images/meagan.jpg"
+    image: "/images/pokedex/meagan.jpg"
   }, 
   {
     name: "LANA",
     role: "Gym leader",
     bio: "",
-    image: "/images/lana.jpg"
+    image: "/images/pokedex/lana.jpg"
   }
 ]
 
