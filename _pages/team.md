@@ -244,6 +244,7 @@ permalink: /team/
 <p>{{ member.name }}</p>
 {% endfor %}
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 <!-- ===================== POKEBALL ===================== -->
@@ -257,5 +258,7 @@ permalink: /team/
          onmouseout="this.style.opacity='0.75'" />
   </a>
 </div>
+=======
+>>>>>>> parent of c613175 (hidden pokeball)
 =======
 >>>>>>> parent of c613175 (hidden pokeball)
