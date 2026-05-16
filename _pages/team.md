@@ -400,8 +400,11 @@ permalink: /team/
 {% endif %}
 
 ## Group Alumni
+
 {% for member in site.data.previous %}
-<p>{{ member.name }}</p>
+<div class="col-sm-12 clearfix" style="margin-bottom: 8px;">
+  <h4>{{ member.name }}</h4>
+</div>
 {% endfor %}
 
 <div style="text-align: center; margin-top: 40px; padding-top: 20px;">
