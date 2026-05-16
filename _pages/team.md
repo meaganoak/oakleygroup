@@ -400,19 +400,6 @@ permalink: /team/
 {% endif %}
 
 ## Group Alumni
-
 {% for member in site.data.previous %}
-<div class="col-sm-12 clearfix" style="margin-bottom: 8px;">
-  <h4>{{ member.name }}</h4>
-</div>
+<p>{{ member.name }}</p>
 {% endfor %}
-
-<div style="text-align: center; margin-top: 40px; padding-top: 20px;">
-  <a href="https://meaganoakley.com/pokedex" title="Pokédex">
-    <img src="{{ site.baseurl }}/images/pokeball.png"
-         alt="Pokéball"
-         style="width: 24px; height: 24px; opacity: 0.75;"
-         onmouseover="this.style.opacity='1'"
-         onmouseout="this.style.opacity='0.75'" />
-  </a>
-</div>

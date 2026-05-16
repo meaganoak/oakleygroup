@@ -41,6 +41,14 @@ const team = [
     bio: "",
     image: "/images/pokedex/ieuan.jpg"
   },
+  {
+    name: "PIPPIN",
+    role: "Dog pokemon",
+    type: "Fairy",
+    bio: "",
+    image: "/images/pokedex/pippin-dachsbun.png"
+  }
+
 ]
 
 let current = 0
