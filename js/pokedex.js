@@ -10,7 +10,31 @@ const team = [
     role: "Gym leader",
     bio: "",
     image: "/images/pokedex/lana.jpg"
-  }
+  }, 
+  {
+    name: "FATHIMA",
+    role: "????",
+    bio: "",
+    image: "/images/pokedex/fathima.jpg"
+  },
+  {
+    name: "FFION",
+    role: "????",
+    bio: "",
+    image: "/images/pokedex/ffion.jpg"
+  },
+  {
+    name: "NICOLAJ",
+    role: "????",
+    bio: "",
+    image: "/images/pokedex/nicolaj.jpg"
+  },
+  {
+    name: "IEUAN",
+    role: "???",
+    bio: "",
+    image: "/images/pokedex/ieuan.jpg"
+  },
 ]
 
 let current = 0
