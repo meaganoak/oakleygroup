@@ -2,42 +2,36 @@ const team = [
   {
     name: "MEAGAN",
     role: "Head of Oak's Laboratory",
-    type: "Fire", 
-    bio: "A computational chemist studying molecular systems through simulation and theory. Known for spending lots of rare candies on nodes. Frequently upgrades the Pokédex software late at night.",
+    bio: "Obsessed with computers",
     image: "/images/pokedex/meagan.jpg"
   }, 
   {
     name: "LANA",
-    role: "",
-    type: "",
+    role: "Gym leader",
     bio: "",
     image: "/images/pokedex/lana.jpg"
   }, 
   {
     name: "FATHIMA",
-    role: "",
-    type: "",
+    role: "????",
     bio: "",
     image: "/images/pokedex/fathima.jpg"
   },
   {
     name: "FFION",
-    role: "",
-    type: "",
+    role: "????",
     bio: "",
     image: "/images/pokedex/ffion.jpg"
   },
   {
     name: "NICOLAJ",
-    role: "",
-    type: "",
+    role: "????",
     bio: "",
     image: "/images/pokedex/nicolaj.jpg"
   },
   {
     name: "IEUAN",
-    role: "",
-    type: "Water",
+    role: "???",
     bio: "",
     image: "/images/pokedex/ieuan.jpg"
   },
@@ -59,9 +53,6 @@ function renderMember() {
 
   document.getElementById("member-role").textContent =
     team[current].role
-
-  document.getElementById("member-type").textContent =
-    "TYPE: " + team[current].type
 
   document.getElementById("member-bio").textContent =
     team[current].bio
