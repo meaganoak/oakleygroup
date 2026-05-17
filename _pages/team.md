@@ -12,7 +12,6 @@ permalink: /team/
        style="max-width: 45%; margin: 20px auto;"
        alt="The Oakley Group, 2026" />
   <h3 style="margin-top: 10px;">The Oakley Group, 2026</h3>
-
   <p style="margin-top: 15px;">
     <a href="{{ site.baseurl }}/previous-groups/"
        style="font-size: 16px; color: #555; text-decoration: none; border-bottom: 1px solid #ccc;">
@@ -21,10 +20,8 @@ permalink: /team/
   </p>
 </div>
 
-
 <!-- ===================== TEAM MEMBERS ===================== -->
 <h2 style="margin-top: 40px;">Team Members</h2>
-
 {% for member in site.data.meagan %}
 <div class="member-block">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
@@ -39,10 +36,8 @@ permalink: /team/
 </div>
 {% endfor %}
 
-
-<!-- ===================== PHD STUDENTS ===================== -->
+<!-- ===================== PhD STUDENTS ===================== -->
 <h2 style="margin-top: 50px;">PhD Students</h2>
-
 {% for member in site.data.students %}
 <div class="member-block">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
@@ -57,10 +52,8 @@ permalink: /team/
 </div>
 {% endfor %}
 
-
 <!-- ===================== POSTDOCS ===================== -->
 <h2 style="margin-top: 50px;">Postdoctoral Researchers</h2>
-
 {% for member in site.data.postdocs %}
 <div class="member-block">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
@@ -75,10 +68,8 @@ permalink: /team/
 </div>
 {% endfor %}
 
-
 <!-- ===================== MCHEM STUDENTS ===================== -->
 <h2 style="margin-top: 50px;">MChem Students</h2>
-
 {% for member in site.data.mchemstudents %}
 <div class="member-block">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
@@ -93,10 +84,8 @@ permalink: /team/
 </div>
 {% endfor %}
 
-
 <!-- ===================== MSC STUDENTS ===================== -->
 <h2 style="margin-top: 50px;">MSc Students</h2>
-
 {% for member in site.data.mscstudents %}
 <div class="member-block">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
@@ -111,10 +100,8 @@ permalink: /team/
 </div>
 {% endfor %}
 
-
 <!-- ===================== POSTDOG ===================== -->
 <h2 style="margin-top: 50px;">Post-Dog</h2>
-
 {% for member in site.data.postdog %}
 <div class="member-block">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"
@@ -129,16 +116,13 @@ permalink: /team/
 </div>
 {% endfor %}
 
-
 <!-- ===================== GROUP ALUMNI ===================== -->
 <h2 style="margin-top: 50px;">Group Alumni</h2>
-
 <div class="alumni-list">
   {% for member in site.data.previous %}
     <p style="margin: 4px 0;">{{ member.name }}</p>
   {% endfor %}
 </div>
-
 
 <!-- ===================== POKEBALL ===================== -->
 <div style="text-align: center; margin-top: 50px; padding-top: 20px;">
