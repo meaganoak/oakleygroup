@@ -2,6 +2,7 @@
 title: "The Oakley Group - Team"
 layout: gridlay
 excerpt: "The Oakley Group: Team members"
+show_alumni_photos: false
 sitemap: false
 permalink: /team/
 ---
