@@ -2,49 +2,49 @@ const team = [
   {
     name: "MEAGAN",
     role: "Head of Oak's Laboratory",
-    type: "Fire",
+    type: "TYPE: Fire",
     bio: "A computational chemist studying molecular systems through simulation and theory. Known for spending lots of rare candies on nodes. Frequently upgrades the Pokédex software late at night.",
     image: "/images/pokedex/meagan.jpg"
   },
   {
     name: "LANA",
     role: "",
-    type: "",
+    type: "TYPE: ",
     bio: "",
     image: "/images/pokedex/lana.jpg"
   },
   {
     name: "FATHIMA",
     role: "",
-    type: "",
+    type: "TYPE: ",
     bio: "",
     image: "/images/pokedex/fathima.jpg"
   },
   {
     name: "FFION",
     role: "",
-    type: "",
+    type: "TYPE:",
     bio: "",
     image: "/images/pokedex/ffion.jpg"
   },
   {
     name: "NICOLAJ",
     role: "",
-    type: "",
+    type: "TYPE: ",
     bio: "",
     image: "/images/pokedex/nicolaj.jpg"
   },
   {
     name: "IEUAN",
     role: "",
-    type: "Water",
+    type: "TYPE: Water",
     bio: "",
     image: "/images/pokedex/ieuan.jpg"
   },
   {
     name: "PIPPIN",
     role: "Dog pokemon",
-    type: "Fairy",
+    type: "TYPE: Fairy",
     bio: "",
     image: "/images/pokedex/pippin-dachsbun.png"
   }
