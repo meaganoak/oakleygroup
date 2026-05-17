@@ -8,7 +8,7 @@ show_alumni_photos: false
 ---
 
 <div class="text-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2026.jpeg" 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2026.jpeg"
        style="max-width:45%; margin:20px auto;" alt="The Oakley Group, 2026" />
   <h3 style="margin-top:10px;">The Oakley Group, 2026</h3>
   <p>
@@ -19,84 +19,96 @@ show_alumni_photos: false
 <h2 style="margin-top:40px;">Team Members</h2>
 {% for member in site.data.meagan %}
 <div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="width:28%; float:left; margin-right:15px;" />
-  <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }}</i></p>
-  <ul>
-    {% for i in (1..member.number_educ) %}
-      <li>{{ member["education" | append:i] }}</li>
-    {% endfor %}
-  </ul>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
+  <div class="member-info">
+    <h4>{{ member.name }}</h4>
+    <p><i>{{ member.info }}</i></p>
+    <ul>
+      {% for i in (1..member.number_educ) %}
+        <li>{{ member["education" | append:i] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 {% endfor %}
 
 <h2 style="margin-top:50px;">PhD Students</h2>
 {% for member in site.data.students %}
 <div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="width:25%; float:left; margin-right:15px;" />
-  <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }}</i></p>
-  <ul>
-    {% for i in (1..member.number_educ) %}
-      <li>{{ member["education" | append:i] }}</li>
-    {% endfor %}
-  </ul>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
+  <div class="member-info">
+    <h4>{{ member.name }}</h4>
+    <p><i>{{ member.info }}</i></p>
+    <ul>
+      {% for i in (1..member.number_educ) %}
+        <li>{{ member["education" | append:i] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 {% endfor %}
 
 <h2 style="margin-top:50px;">Postdoctoral Researchers</h2>
 {% for member in site.data.postdocs %}
 <div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="width:25%; float:left; margin-right:15px;" />
-  <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }}</i></p>
-  <ul>
-    {% for i in (1..member.number_educ) %}
-      <li>{{ member["education" | append:i] }}</li>
-    {% endfor %}
-  </ul>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
+  <div class="member-info">
+    <h4>{{ member.name }}</h4>
+    <p><i>{{ member.info }}</i></p>
+    <ul>
+      {% for i in (1..member.number_educ) %}
+        <li>{{ member["education" | append:i] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 {% endfor %}
 
 <h2 style="margin-top:50px;">MChem Students</h2>
 {% for member in site.data.mchemstudents %}
 <div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="width:25%; float:left; margin-right:15px;" />
-  <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }}</i></p>
-  <ul>
-    {% for i in (1..member.number_educ) %}
-      <li>{{ member["education" | append:i] }}</li>
-    {% endfor %}
-  </ul>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
+  <div class="member-info">
+    <h4>{{ member.name }}</h4>
+    <p><i>{{ member.info }}</i></p>
+    <ul>
+      {% for i in (1..member.number_educ) %}
+        <li>{{ member["education" | append:i] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 {% endfor %}
 
 <h2 style="margin-top:50px;">MSc Students</h2>
 {% for member in site.data.mscstudents %}
 <div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="width:25%; float:left; margin-right:15px;" />
-  <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }}</i></p>
-  <ul>
-    {% for i in (1..member.number_educ) %}
-      <li>{{ member["education" | append:i] }}</li>
-    {% endfor %}
-  </ul>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
+  <div class="member-info">
+    <h4>{{ member.name }}</h4>
+    <p><i>{{ member.info }}</i></p>
+    <ul>
+      {% for i in (1..member.number_educ) %}
+        <li>{{ member["education" | append:i] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 {% endfor %}
 
 <h2 style="margin-top:50px;">Post-Dog</h2>
 {% for member in site.data.postdog %}
 <div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" style="width:25%; float:left; margin-right:15px;" />
-  <h4>{{ member.name }}</h4>
-  <p><i>{{ member.info }}</i></p>
-  <ul>
-    {% for i in (1..member.number_educ) %}
-      <li>{{ member["education" | append:i] }}</li>
-    {% endfor %}
-  </ul>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
+  <div class="member-info">
+    <h4>{{ member.name }}</h4>
+    <p><i>{{ member.info }}</i></p>
+    <ul>
+      {% for i in (1..member.number_educ) %}
+        <li>{{ member["education" | append:i] }}</li>
+      {% endfor %}
+    </ul>
+  </div>
 </div>
 {% endfor %}
 

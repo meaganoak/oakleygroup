@@ -101,3 +101,31 @@ firstp {
     margin-right: 30px;
 }
 
+.member-block {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.member-block img {
+  width: 25%;            /* adjust width per role if needed */
+  border-radius: 12px;   /* overrides #gridid img rounding */
+  margin: 0 15px 0 0;    /* right spacing to text */
+  box-shadow: none;      /* remove shadows if undesired */
+}
+
+.member-info {
+  width: 70%;            /* text container next to image */
+}
+
+.member-info h4,
+.member-info p,
+.member-info ul {
+  margin: 0;
+}
+
+.member-info ul {
+  padding-left: 20px;
+  margin-top: 5px;
+}
