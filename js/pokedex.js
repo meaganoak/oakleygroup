@@ -60,8 +60,8 @@ function renderMember() {
   document.getElementById("member-role").textContent =
     team[current].role
 
-  document.getElementById("member-bio").textContent =
-    team[current].bio
+  document.getElementById("member-type").textContent =
+    team[current].type
 
   document.getElementById("member-bio").textContent =
     team[current].bio
