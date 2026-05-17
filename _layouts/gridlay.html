@@ -4,3 +4,7 @@ layout: default
 <div id="gridid" class="col-sm-12">
   {{ content | markdownify }}
 </div>
+
+{% if page.show_alumni_photos != false %}
+  <img src="{{ member.photo }}">
+{% endif %}
