@@ -5,9 +5,3 @@ layout: default
   {{ content | markdownify }}
 </div>
 
-{% comment %}
-  Only render member photos if this page wants photos for the current group
-{% endcomment %}
-{% if page.show_alumni_photos != false and member and member.photo %}
-  <img src="{{ member.photo }}">
-{% endif %}
