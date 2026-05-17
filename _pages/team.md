@@ -106,9 +106,3 @@ show_alumni_photos: false
     <p style="margin:4px 0;">{{ member.name }}</p>
   {% endfor %}
 </div>
-
-<div style="text-align:center; margin-top:50px; padding-top:20px;">
-  <a href="https://meaganoakley.com/pokedex" title="Pokédex">
-    <img src="{{ site.baseurl }}/images/pokeball.png" alt="Pokéball" style="width:24px; height:24px; opacity:0.75;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.75'" />
-  </a>
-</div>
