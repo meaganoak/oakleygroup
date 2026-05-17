@@ -1,120 +1,96 @@
 ---
 title: "The Oakley Group - Team"
-layout: gridlay
+layout: page
 excerpt: "The Oakley Group: Team members"
 sitemap: false
 permalink: /team/
-show_alumni_photos: false
 ---
 
-<div class="text-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2026.jpeg"
-       style="max-width:45%; margin:20px auto;" alt="The Oakley Group, 2026" />
-  <h3 style="margin-top:10px;">The Oakley Group, 2026</h3>
-  <p>
-    <a href="{{ site.baseurl }}/previous-groups/">View previous group photos</a>
-  </p>
-</div>
+# The Oakley Group, 2026
 
-<h2 style="margin-top:40px;">Team Members</h2>
-{% for member in site.data.meagan %}
-<div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
-  <div class="member-info">
-    <h4>{{ member.name }}</h4>
-    <p><i>{{ member.info }}</i></p>
-    <ul>
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append:i] }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-{% endfor %}
+![The Oakley Group, 2026](/images/teampic/2026.jpeg)
 
-<h2 style="margin-top:50px;">PhD Students</h2>
-{% for member in site.data.students %}
-<div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
-  <div class="member-info">
-    <h4>{{ member.name }}</h4>
-    <p><i>{{ member.info }}</i></p>
-    <ul>
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append:i] }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-{% endfor %}
+[View previous group photos](/previous-groups/)
 
-<h2 style="margin-top:50px;">Postdoctoral Researchers</h2>
-{% for member in site.data.postdocs %}
-<div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
-  <div class="member-info">
-    <h4>{{ member.name }}</h4>
-    <p><i>{{ member.info }}</i></p>
-    <ul>
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append:i] }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-{% endfor %}
+---
 
-<h2 style="margin-top:50px;">MChem Students</h2>
-{% for member in site.data.mchemstudents %}
-<div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
-  <div class="member-info">
-    <h4>{{ member.name }}</h4>
-    <p><i>{{ member.info }}</i></p>
-    <ul>
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append:i] }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-{% endfor %}
+## Team Members
 
-<h2 style="margin-top:50px;">MSc Students</h2>
-{% for member in site.data.mscstudents %}
-<div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
-  <div class="member-info">
-    <h4>{{ member.name }}</h4>
-    <p><i>{{ member.info }}</i></p>
-    <ul>
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append:i] }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-{% endfor %}
+![Meagan Oakley](/images/teampic/meagan.jpg)
+### Meagan Oakley
+*Group Leader & Dame Kathleen Ollerenshaw Research Fellow*
 
-<h2 style="margin-top:50px;">Post-Dog</h2>
-{% for member in site.data.postdog %}
-<div class="member-block">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" />
-  <div class="member-info">
-    <h4>{{ member.name }}</h4>
-    <p><i>{{ member.info }}</i></p>
-    <ul>
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append:i] }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-</div>
-{% endfor %}
+- Previously an NSERC Postdoctoral Research Fellow at The University of Manchester
+- Postdocs at the University of Minnesota & University of Manitoba
+- PhD at the University of Alberta
+- [Follow @meaganoakley on Bluesky](https://bsky.app/profile/meaganoakley.bsky.social)
 
-<h2 style="margin-top:50px;">Group Alumni</h2>
-<div class="alumni-list">
-  {% for member in site.data.previous %}
-    <p style="margin:4px 0;">{{ member.name }}</p>
-  {% endfor %}
-</div>
+---
+
+## PhD Students
+
+![Lana Francis](/images/teampic/lana.jpg)
+### Lana Francis
+*PhD Student*
+
+- MSc at University of Manchester
+- BSc at University of Leeds
+
+![Fathima Thanha Thazhe Namboorikandy](/images/teampic/fathima.jpg)
+### Fathima Thanha Thazhe Namboorikandy
+*PhD Student*
+
+- MSc at University of Manchester
+- BSc at University of Leeds
+
+---
+
+## Postdoctoral Researchers
+
+![Postdoc Name](/images/teampic/postdoc1.jpg)
+### Postdoc Name
+*Postdoctoral Researcher*
+
+- PhD at University X
+- Postdoc at University Y
+
+---
+
+## MChem Students
+
+![MChem Student](/images/teampic/mchem1.jpg)
+### MChem Student
+*MChem Student*
+
+- Education 1
+- Education 2
+
+---
+
+## MSc Students
+
+![MSc Student](/images/teampic/msc1.jpg)
+### MSc Student
+*MSc Student*
+
+- Education 1
+- Education 2
+
+---
+
+## Post-Dog
+
+![Post-Dog Name](/images/teampic/postdog1.jpg)
+### Post-Dog Name
+*Post-Dog*
+
+- Education 1
+- Education 2
+
+---
+
+## Group Alumni
+
+- Alumni 1
+- Alumni 2
+- Alumni 3
