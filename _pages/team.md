@@ -404,3 +404,12 @@ permalink: /team/
 {% for member in site.data.previous %}
 <p>{{ member.name }}</p>
 {% endfor %}
+
+<!-- Small clickable Pokeball at the bottom -->
+<div style="text-align: center; margin-top: 40px;">
+  <a href="https://example.com">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pokeball.png"
+         style="width:40px; height:40px;" 
+         alt="Pokeball" />
+  </a>
+</div>
