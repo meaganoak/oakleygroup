@@ -2,7 +2,7 @@ const team = [
   {
     name: "MEAGAN",
     role: "Head of Oak's Laboratory",
-    type: "TYPE: Fire",
+    type: "Fire",
     bio: "A computational chemist studying molecular systems through simulation and theory. Known for spending lots of rare candies on nodes. Frequently upgrades the Pokédex software late at night.",
     image: "/images/pokedex/meagan.jpg"
   },
@@ -59,9 +59,6 @@ function renderMember() {
 
   document.getElementById("member-role").textContent =
     team[current].role
-
-  document.getElementById("member-type").textContent =
-    team[current].type
 
   document.getElementById("member-bio").textContent =
     team[current].bio
