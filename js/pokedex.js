@@ -1,3 +1,4 @@
+const team = [
   {
     name: "MEAGAN",
     role: "Head of Oak's Laboratory",
