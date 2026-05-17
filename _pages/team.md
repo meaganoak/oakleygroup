@@ -409,6 +409,7 @@ permalink: /team/
   <a href="https://meaganoakley.com/pokedex/">
     <img src="{{ site.url }}{{ site.baseurl }}/images/pokedex/pokeball.png"
          style="width:40px; height:40px;" 
+         class="pokeball"
          alt="Pokeball" />
   </a>
 </div>

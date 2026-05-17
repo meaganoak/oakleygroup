@@ -107,3 +107,8 @@ firstp {
   align-items: flex-start;
   margin-bottom: 40px;
 }
+
+.pokeball {
+  box-shadow: none !important;
+  border-radius: 0; /* optional if you want square corners */
+}
