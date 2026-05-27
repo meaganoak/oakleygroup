@@ -9,7 +9,7 @@ const team = [
   {
     name: "LANA",
     role: "Trainer",
-    type: "Grass: ",
+    type: "TYPE: Grass ",
     bio: "A slowly evolving computational chemist native to the valleys of Cymru. Drawn to radioactive materials and complex electronic structures. Has the unique ability to remain stationary for hours when researching, but sightings increase dramatically after mentions of heavy weights or offering of sweet treats.",
     image: "/images/pokedex/lana.jpg"
   },
@@ -22,9 +22,9 @@ const team = [
   },
   {
     name: "FFION",
-    role: "",
-    type: "TYPE:",
-    bio: "",
+    role: "TRAINER",
+    type: "TYPE: Grass",
+    bio: "Computational chemist in training. Especially interested in environmental chemistry. Likes to spend her rare candies on coffees and sushi.",
     image: "/images/pokedex/ffion.jpg"
   },
   {
