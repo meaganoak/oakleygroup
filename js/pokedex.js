@@ -8,9 +8,9 @@ const team = [
   },
   {
     name: "LANA",
-    role: "",
-    type: "TYPE: ",
-    bio: "",
+    role: "Trainer",
+    type: "Grass: ",
+    bio: "A slowly evolving computational chemist native to the valleys of Cymru. Drawn to radioactive materials and complex electronic structures. Has the unique ability to remain stationary for hours when researching, but sightings increase dramatically after mentions of heavy weights or offering of sweet treats.",
     image: "/images/pokedex/lana.jpg"
   },
   {
