@@ -16,8 +16,8 @@ const team = [
   {
     name: "FATHIMA",
     role: "",
-    type: "TYPE: ",
-    bio: "",
+    type: "TYPE: Electric",
+    bio: "Slowly developing computational chemist playing with some complex ligands and transition metals to study electronic structure and molecular magnetism. Loves going trekking to explore nature and soaking in that unbeatable post‑trek satisfaction.",
     image: "/images/pokedex/fathima.jpg"
   },
   {
@@ -30,15 +30,15 @@ const team = [
   {
     name: "NICOLAJ",
     role: "",
-    type: "TYPE: ",
-    bio: "",
+    type: "TYPE: Rock",
+    bio: "Experimental type working with rare-earths and heavy metals. Often seen training in the gym trying to reach the next evolution.",
     image: "/images/pokedex/nicolaj.jpg"
   },
   {
     name: "IEUAN",
     role: "",
     type: "TYPE: Water",
-    bio: "",
+    bio: "This constantly feeding Water type is said never to finish one Pret filter coffee before finding another. He is often found sniffing around basis sets by day and bobbing up and down in the Manchester Aquatics Centre by night. The calls of Oasis and U2 have been observed to trigger immediate migration.",
     image: "/images/pokedex/ieuan.jpg"
   },
   {
