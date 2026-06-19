@@ -1,10 +1,3 @@
----
-
-title: Research
-layout: page
-permalink: /research/
----------------------
-
 <p>
 Our research focuses on the use of correlated quantum chemistry methods for modelling
 f-element electronic structure. In particular, we work to understand chemical bonding,
