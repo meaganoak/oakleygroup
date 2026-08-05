@@ -9,11 +9,6 @@ permalink: /research
 
 # Theory-guided Interpretation of Spectroscopy and Electronic Structure
 
-<div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
-
-<div style="flex:2">
-
-Our research uses quantum chemistry methods to understand the electronic structure of f-element compounds. These elements exhibit complex electronic behaviour arising from strong electron correlation and relativistic effects, making them among the most challenging systems in chemistry. We develop and apply advanced electronic structure methods to predict spectroscopic properties, understand chemical bonding, and explain magnetic behaviour through close collaboration with experimental researchers.
 
 <div style="flex:1; text-align:center;">
 
@@ -22,6 +17,11 @@ Our research uses quantum chemistry methods to understand the electronic structu
      style="max-width:100%; width:320px;">
 
 </div>
+<div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
+
+<div style="flex:2">
+
+Our research uses quantum chemistry methods to understand the electronic structure of f-element compounds. These elements exhibit complex electronic behaviour arising from strong electron correlation and relativistic effects, making them among the most challenging systems in chemistry. We develop and apply advanced electronic structure methods to predict spectroscopic properties, understand chemical bonding, and explain magnetic behaviour through close collaboration with experimental researchers.
 
 ## Computational X-ray Spectroscopy of Actinides
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
