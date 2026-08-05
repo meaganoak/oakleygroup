@@ -49,13 +49,13 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 <div style="flex:2">
 We use correlated electronic structure and density functional theory methods to investigate the nature of bonding across the lanthanide and actinide series.  
 
+<div style="text-align:left;">
 **Selected publications**  
-</div>
 [*ChemRxiv*](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004087), **2026**
 [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.5c20785), **2026**, *148*, 11758–11768
 [*Inorganic Chemistry*](https://doi.org/10.1021/acs.inorgchem.4c04503), **2025**, *64*, 242–254
 [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.3c12719), **2024**, *146*, 4098–4111.
-
+</div>
 
 <div style="flex:1">
 
