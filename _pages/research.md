@@ -9,8 +9,6 @@ permalink: /research
 
 # Theory-guided Interpretation of Actinide Spectroscopy and Electronic Structure
 
-</div>
-
 <img src="/images/logopic/logopic_comp.png"
      alt="Research overview"
      style="width:270px;">
