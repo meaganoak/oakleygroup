@@ -14,7 +14,7 @@ permalink: /research
 
 <img src="/images/logopic/logopic_comp.png"
      alt="Research overview"
-     style="max-width=100%; width:320px;">
+     style="width:270px;">
 
 </div>
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
@@ -29,7 +29,7 @@ Our research uses quantum chemistry methods to understand the electronic structu
 <div style="flex:2">
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
 
-<img src="/images/xray.png"
+<img src="/images/Xray.png"
      alt="X-ray spectroscopy"
      style="width:320px; height:auto;">
 
@@ -47,9 +47,10 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 We use correlated electronic structure and density functional theory methods to investigate the nature of bonding across the lanthanide and actinide series.  
 
 **Selected publications**  
-Paper 1  
-Paper 2  
-Paper 3  
+[Actinide Tris(tetramethylcyclopentadienide) Complexes: Bonding and Electronic Structures Across the Isostructural [An(C5Me4H)3] (An = Th, U, Np, Pu, Am) Series](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004087), **2026**, *ChemRxiv*.  
+[Mapping the Coordination Number and Coordination Geometry of Lanthanide Ions in Aqueous and Nonaqueous Solution Phases](https://doi.org/10.1021/jacs.5c20785), *Journal of the American Chemical Society*, **2026**, *148*, 11758–11768.  
+[Trends in Methanol-Solvated Actinide Ions and Actinide Expanded Porphyrin Complexes](https://doi.org/10.1021/acs.inorgchem.4c04503), *Inorganic Chemistry*, **2025**, 64, 242–254.  
+
 
 </div>
 
