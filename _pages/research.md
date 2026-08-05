@@ -29,25 +29,17 @@ Our research uses quantum chemistry methods to understand the electronic structu
 <div style="flex:2">
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
 
-</div>
 
-<div style="flex:1">
-
-![X-ray spectroscopy](images/xray.png)
-
-</div>
+<img src="/images/xray.png"
+     alt="X-ray spectroscopy"
+     style="max-width:100%;">
 
 </div>
+
 </div>
-
-**Selected publications**
-
-- Paper 1
-- Paper 2
-- Paper 3
 
 ---
-<div style="text-align: center;">
+
 ## Electronic Structure and Chemical Bonding
 
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
@@ -59,18 +51,19 @@ We use correlated electronic structure and density functional theory methods to 
 
 <div style="flex:1">
 
-![Electronic structure](images/texa_TOC.png)
+<img src="/images/texa_TOC.png"
+     alt="Electronic structure"
+     style="max-width:100%;">
 
 </div>
 
 </div>
-</div>
+
 **Selected publications**
 
 - Paper 1
 - Paper 2
 - Paper 3
-
 ---
 <div style="text-align: center;">
 ## Magnetism of f-Element Complexes
@@ -79,21 +72,21 @@ We use correlated electronic structure and density functional theory methods to 
 
 <div style="flex:2">
 We combine electronic structure theory with experiment to understand magnetic anisotropy and relaxation mechanisms of molecular magnetism.
-
 </div>
 
 <div style="flex:1">
 
-![Magnetism](images/hyperfine.png)
+<img src="/images/hyperfine.png"
+     alt="Magnetic properties"
+     style="max-width:100%;">
 
 </div>
 
 </div>
-</div>
+
 **Selected publications**
 
 - Paper 1
 - Paper 2
 - Paper 3
-</div>
 ```
