@@ -11,22 +11,11 @@ permalink: /research
 
 </div>
 
-
-<div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
-
-<div style="flex:2; text-align:center;">
-
 <img src="/images/logopic/logopic_comp.png"
      alt="Research overview"
      style="width:270px;">
 
-</div>
-
-<div style="flex:3; text-align:center;">
-
 Our research uses quantum chemistry methods to understand the electronic structure of f-element compounds; these exhibit complex electronic behaviour due to strong electron correlation and relativistic effects, making them among the most challenging systems in chemistry. We develop and apply advanced electronic structure methods to predict spectroscopic properties, understand chemical bonding, and explain magnetic behaviour. Through close collaboration with experimental researchers, we ensure that our theoretical approaches are as close as possible to experimental reality.
-
-</div>
 
 </div>
 
