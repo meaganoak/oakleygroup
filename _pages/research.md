@@ -29,6 +29,7 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 </div>
 
 </div>
+</div>
 
 **Selected publications**
 
@@ -37,7 +38,7 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 - Paper 3
 
 ---
-
+<div style="text-align: center;">
 ## Electronic Structure and Chemical Bonding
 
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
@@ -54,7 +55,7 @@ We use correlated electronic structure and density functional theory methods to 
 </div>
 
 </div>
-
+</div>
 **Selected publications**
 
 - Paper 1
@@ -62,7 +63,7 @@ We use correlated electronic structure and density functional theory methods to 
 - Paper 3
 
 ---
-
+<div style="text-align: center;">
 ## Magnetism of f-Element Complexes
 
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
@@ -79,7 +80,7 @@ We combine electronic structure theory with experiment to understand magnetic an
 </div>
 
 </div>
-
+</div>
 **Selected publications**
 
 - Paper 1
