@@ -44,12 +44,12 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
 
 <div style="flex:2">
-We use correlated electronic structure and density functional theory methods to investigate the nature of bonding across the lanthanide and actinide series.
+We use correlated electronic structure and density functional theory methods to investigate the nature of bonding across the lanthanide and actinide series.  
 
-**Selected publications**
-Paper 1
-Paper 2
-Paper 3
+**Selected publications**  
+Paper 1  
+Paper 2  
+Paper 3  
 
 </div>
 
@@ -70,12 +70,12 @@ Paper 3
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
 
 <div style="flex:2">
-We combine electronic structure theory with experiment to understand magnetic anisotropy and relaxation mechanisms of molecular magnetism.
+We combine electronic structure theory with experiment to understand magnetic anisotropy and relaxation mechanisms of molecular magnetism.  
 
-**Selected publications**
-Paper 1
-Paper 2
-Paper 3
+**Selected publications**  
+Paper 1  
+Paper 2  
+Paper 3  
 </div>
 
 <div style="flex:1">
@@ -88,4 +88,3 @@ Paper 3
 
 </div>
 
-```
