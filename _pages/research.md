@@ -29,6 +29,10 @@ Our research uses quantum chemistry methods to understand the electronic structu
 <div style="flex:2">
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
 
+</div>
+
+<div style="flex:1">
+
 <img src="/images/Xray.png"
      alt="X-ray spectroscopy"
      style="width:320px; height:auto;">
@@ -36,7 +40,6 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 </div>
 
 </div>
-
 ---
 
 ## Electronic Structure and Chemical Bonding
@@ -47,10 +50,10 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 We use correlated electronic structure and density functional theory methods to investigate the nature of bonding across the lanthanide and actinide series.  
 
 **Selected publications**  
-[Actinide Tris(tetramethylcyclopentadienide) Complexes: Bonding and Electronic Structures Across the Isostructural [An(C5Me4H)3] (An = Th, U, Np, Pu, Am) Series](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004087), **2026**, *ChemRxiv*.  
-[Mapping the Coordination Number and Coordination Geometry of Lanthanide Ions in Aqueous and Nonaqueous Solution Phases](https://doi.org/10.1021/jacs.5c20785), *Journal of the American Chemical Society*, **2026**, *148*, 11758–11768.  
-[Trends in Methanol-Solvated Actinide Ions and Actinide Expanded Porphyrin Complexes](https://doi.org/10.1021/acs.inorgchem.4c04503), *Inorganic Chemistry*, **2025**, 64, 242–254.  
-
+</div>
+[*ChemRxiv*](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004087), **2026**
+[*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.5c20785), **2026**, *148*, 11758–11768
+[*Inorganic Chemistry*](https://doi.org/10.1021/acs.inorgchem.4c04503), **2025**, *64*, 242–254
 
 </div>
 
@@ -72,7 +75,7 @@ We use correlated electronic structure and density functional theory methods to 
 
 <div style="flex:2">
 We combine electronic structure theory with experiment to understand magnetic anisotropy and relaxation mechanisms of molecular magnetism.  
-
+</div>
 **Selected publications**  
 Paper 1  
 Paper 2  
