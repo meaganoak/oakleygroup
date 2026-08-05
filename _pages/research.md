@@ -84,7 +84,7 @@ We combine electronic structure theory with experiment to understand magnetic an
 
 <div style="flex:1">
 
-![Magnetism](images/hyperfine.pdf)
+![Magnetism](images/hyperfine.png)
 
 </div>
 
