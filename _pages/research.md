@@ -21,19 +21,13 @@ permalink: /research
 
 <div style="flex:2">
 
-Our research uses quantum chemistry methods to understand the electronic structure of f-element compounds. These elements exhibit complex electronic behaviour arising from strong electron correlation and relativistic effects, making them among the most challenging systems in chemistry. We develop and apply advanced electronic structure methods to predict spectroscopic properties, understand chemical bonding, and explain magnetic behaviour through close collaboration with experimental researchers.
+Our research uses quantum chemistry methods to understand the electronic structure of f-element compounds; these exhibit complex electronic behaviour due to strong electron correlation and relativistic effects, making them among the most challenging systems in chemistry. We develop and apply advanced electronic structure methods to predict spectroscopic properties, understand chemical bonding, and explain magnetic behaviour. Through close collaboration with experimental researchers, we ensure that our theoretical approaches are as close as possible to experimental reality.
 
 ## Computational X-ray Spectroscopy of Actinides
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
 
 <div style="flex:2">
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
-
-**Selected publications**
-
-- Paper 1
-- Paper 2
-- Paper 3
 
 <img src="/images/xray.png"
      alt="X-ray spectroscopy"
@@ -51,6 +45,11 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 
 <div style="flex:2">
 We use correlated electronic structure and density functional theory methods to investigate the nature of bonding across the lanthanide and actinide series.
+
+**Selected publications**
+Paper 1
+Paper 2
+Paper 3
 
 </div>
 
@@ -72,6 +71,11 @@ We use correlated electronic structure and density functional theory methods to 
 
 <div style="flex:2">
 We combine electronic structure theory with experiment to understand magnetic anisotropy and relaxation mechanisms of molecular magnetism.
+
+**Selected publications**
+Paper 1
+Paper 2
+Paper 3
 </div>
 
 <div style="flex:1">
@@ -84,9 +88,4 @@ We combine electronic structure theory with experiment to understand magnetic an
 
 </div>
 
-**Selected publications**
-
-- Paper 1
-- Paper 2
-- Paper 3
 ```
