@@ -7,7 +7,7 @@ permalink: /research
 ---
 <div style="text-align: center;">
 
-# Theory-guided Interpretation of Spectroscopy and Electronic Structure
+# Theory-guided Interpretation of Actinide Spectroscopy and Electronic Structure
 
 
 <div style="flex:1; text-align:center;">
