@@ -39,6 +39,12 @@ Our research uses quantum chemistry methods to understand the electronic structu
 
 </div>
 
+<div style="flex:1; text-align:center;">
+
+<img src="/images/Xray.png"
+     alt="X-ray spectroscopy"
+     style="width:320px; height:auto;">
+</div>
 
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
 
@@ -48,21 +54,12 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 
 </div>
 
-
-<div style="flex:1; text-align:center;">
-
-<img src="/images/Xray.png"
-     alt="X-ray spectroscopy"
-     style="width:320px; height:auto;">
-
-</div>
-
 </div>
 
 ---
 
+<div style="text-align:center;">
 ## Electronic Structure and Chemical Bonding
-
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
 
 <div style="flex:2">
@@ -85,6 +82,8 @@ We use correlated electronic structure and density functional theory methods to 
 </div>
 
 </div>
+</div>
+
 
 ---
 <div style="text-align: center;">
