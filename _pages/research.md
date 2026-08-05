@@ -34,26 +34,21 @@ Our research uses quantum chemistry methods to understand the electronic structu
 ---
 
 <div style="text-align:center;">
-
 ## Computational X-ray Spectroscopy of Actinides
-
-</div>
-
-<div style="flex:1; text-align:center;">
-
-<img src="/images/Xray.png"
-     alt="X-ray spectroscopy"
-     style="width:320px; height:auto;">
-</div>
-
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
-
-<div style="flex:2; text-align:center;">
-
+<div style="flex:2">
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
 
 </div>
 
+<div style="flex:1">
+
+<img src="/images/Xray.png"
+     alt="X-ray spectroscopy"
+     style="width:320px; height:auto;">
+
+</div>
+</div>
 </div>
 
 ---
