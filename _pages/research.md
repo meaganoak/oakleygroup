@@ -5,30 +5,51 @@ excerpt: "The Oakley Group: Research"
 sitemap: false
 permalink: /research
 ---
-<div style="text-align: center;">
+<div style="text-align:center;">
 
 # Theory-guided Interpretation of Actinide Spectroscopy and Electronic Structure
 
+</div>
 
-<div style="flex:1; text-align:center;">
+
+<div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
+
+<div style="flex:2; text-align:center;">
 
 <img src="/images/logopic/logopic_comp.png"
      alt="Research overview"
      style="width:270px;">
 
-<div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
+</div>
 
-<div style="flex:2">
+<div style="flex:3; text-align:center;">
 
 Our research uses quantum chemistry methods to understand the electronic structure of f-element compounds; these exhibit complex electronic behaviour due to strong electron correlation and relativistic effects, making them among the most challenging systems in chemistry. We develop and apply advanced electronic structure methods to predict spectroscopic properties, understand chemical bonding, and explain magnetic behaviour. Through close collaboration with experimental researchers, we ensure that our theoretical approaches are as close as possible to experimental reality.
 
+</div>
+
+</div>
+
+
+---
+
+<div style="text-align:center;">
+
 ## Computational X-ray Spectroscopy of Actinides
+
+</div>
+
+
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:1rem;">
 
-<div style="flex:2">
+<div style="flex:2; text-align:center;">
+
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
 
-<div style="flex:1">
+</div>
+
+
+<div style="flex:1; text-align:center;">
 
 <img src="/images/Xray.png"
      alt="X-ray spectroscopy"
@@ -37,6 +58,7 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 </div>
 
 </div>
+
 ---
 
 ## Electronic Structure and Chemical Bonding
@@ -51,6 +73,8 @@ We use correlated electronic structure and density functional theory methods to 
 [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.5c20785), **2026**, *148*, 11758–11768.  
 [*Inorganic Chemistry*](https://doi.org/10.1021/acs.inorgchem.4c04503), **2025**, *64*, 242–254.  
 [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.3c12719), **2024**, *146*, 4098–4111.  
+
+</div>
 
 <div style="flex:1">
 
@@ -75,7 +99,7 @@ We combine electronic structure theory with experiment to understand magnetic an
 [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.5c13255), **2026**, *148*, 2942–2953.  
 [*Inorganic Chemistry*](https://doi.org/10.1021/acs.inorgchem.6c01375), **2026**, *65*, 12541–12556.  
 [*Chemical Science*](https://doi.org/10.1039/D3SC06175B), **2024**, *15*, 3003–3010.  
-
+</div>
 <div style="flex:1">
 
 <img src="/images/hyperfine2.png"
