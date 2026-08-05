@@ -51,7 +51,7 @@ We use correlated electronic structure and density functional theory methods to 
 
 <div style="flex:1">
 
-![Electronic structure](images/bonding.png)
+![Electronic structure](images/texa_TOC.png)
 
 </div>
 
@@ -76,7 +76,7 @@ We combine electronic structure theory with experiment to understand magnetic an
 
 <div style="flex:1">
 
-![Magnetism](images/magnetism.png)
+![Magnetism](images/hyperfine.pdf)
 
 </div>
 
