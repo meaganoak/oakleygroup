@@ -7,9 +7,10 @@ permalink: /research
 ---
 <div style="text-align: center;">
 
-#Theory-guided Interpretation of Spectroscopy and Electronic Structure
 
-![Research overview](/images/logopic_comp.png)
+![Research overview](/images/logopic/logopic_comp.png)
+
+# Theory-guided Interpretation of Spectroscopy and Electronic Structure
 
 Our research uses quantum chemistry methods to understand the electronic structure of f-element compounds. These elements exhibit complex electronic behaviour arising from strong electron correlation and relativistic effects, making them among the most challenging systems in chemistry. We develop and apply advanced electronic structure methods to predict spectroscopic properties, understand chemical bonding, and explain magnetic behaviour through close collaboration with experimental researchers.
 
