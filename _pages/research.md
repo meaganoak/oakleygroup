@@ -29,6 +29,11 @@ Our research uses quantum chemistry methods to understand the electronic structu
 <div style="flex:2">
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
 
+**Selected publications**
+
+- Paper 1
+- Paper 2
+- Paper 3
 
 <img src="/images/xray.png"
      alt="X-ray spectroscopy"
@@ -59,11 +64,6 @@ We use correlated electronic structure and density functional theory methods to 
 
 </div>
 
-**Selected publications**
-
-- Paper 1
-- Paper 2
-- Paper 3
 ---
 <div style="text-align: center;">
 ## Magnetism of f-Element Complexes
