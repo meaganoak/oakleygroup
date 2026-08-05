@@ -14,7 +14,7 @@ permalink: /research
 
 <img src="/images/logopic/logopic_comp.png"
      alt="Research overview"
-     style="max-width:100%; width:320px;">
+     style="max-width=100%; width:320px;">
 
 </div>
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
@@ -31,7 +31,7 @@ We use multiconfigurational quantum chemical methods for simulating X-ray absorp
 
 <img src="/images/xray.png"
      alt="X-ray spectroscopy"
-     style="max-width:100%;">
+     style="width:320px; height:auto;">
 
 </div>
 
@@ -57,7 +57,7 @@ Paper 3
 
 <img src="/images/texa_TOC.png"
      alt="Electronic structure"
-     style="max-width:100%;">
+     style="width:320px; height:auto;">
 
 </div>
 
@@ -82,7 +82,7 @@ Paper 3
 
 <img src="/images/hyperfine.png"
      alt="Magnetic properties"
-     style="max-width:100%;">
+     style="width:320px; height:auto;">
 
 </div>
 
