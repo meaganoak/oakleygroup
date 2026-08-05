@@ -29,8 +29,6 @@ Our research uses quantum chemistry methods to understand the electronic structu
 <div style="flex:2">
 We use multiconfigurational quantum chemical methods for simulating X-ray absorption and emission spectroscopies, enabling direct comparison with high-resolution experiments like resonant inelastic X-ray scattering.
 
-</div>
-
 <div style="flex:1">
 
 <img src="/images/Xray.png"
