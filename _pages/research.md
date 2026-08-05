@@ -80,7 +80,7 @@ Paper 3
 
 <div style="flex:1">
 
-<img src="/images/hyperfine.png"
+<img src="/images/hyperfine2.png"
      alt="Magnetic properties"
      style="width:320px; height:auto;">
 
