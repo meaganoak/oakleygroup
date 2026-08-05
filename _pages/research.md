@@ -16,7 +16,6 @@ permalink: /research
      alt="Research overview"
      style="width:270px;">
 
-</div>
 <div style="display:flex; gap:2rem; align-items:center; margin-bottom:2rem;">
 
 <div style="flex:2">
