@@ -54,8 +54,8 @@ We use correlated electronic structure and density functional theory methods to 
 [*ChemRxiv*](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004087), **2026**
 [*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.5c20785), **2026**, *148*, 11758–11768
 [*Inorganic Chemistry*](https://doi.org/10.1021/acs.inorgchem.4c04503), **2025**, *64*, 242–254
+[*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.3c12719), **2024**, *146*, 4098–4111.
 
-</div>
 
 <div style="flex:1">
 
@@ -77,10 +77,9 @@ We use correlated electronic structure and density functional theory methods to 
 We combine electronic structure theory with experiment to understand magnetic anisotropy and relaxation mechanisms of molecular magnetism.  
 </div>
 **Selected publications**  
-Paper 1  
-Paper 2  
-Paper 3  
-</div>
+[*Journal of the American Chemical Society*](https://doi.org/10.1021/jacs.5c13255), **2026**, *148*, 2942–2953.
+[*Inorganic Chemistry*](https://doi.org/10.1021/acs.inorgchem.6c01375), **2026**, *65*, 12541–12556.
+[*Chemical Science*](https://doi.org/10.1039/D3SC06175B), **2024**, *15*, 3003–3010.
 
 <div style="flex:1">
 
