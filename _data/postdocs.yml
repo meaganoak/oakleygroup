@@ -1,3 +1,11 @@
+- name: Maxime Grasser
+  info: Postdoctoral Researcher
+  photo: maxime.jpeg
+  number_educ: 4
+  education1: PDRA at UoM since 2023
+  education2: Previous postdocs at The University of Manchester with Prof. Nicholas F. Chilton (2024-2025) and at Nantes University with Dr Morgane Vacher (2025-2026).
+  education3: PhD in Theoretical Chemistry, at the University of Rennes with Prof. Boris Le Guennic (2020-2023).
+  education4: Maxime is undertaking a second postdoc at the University of Manchester to simulate X-ray spectra of actinide complexes. His main research focuses on developing and applying novel methods to study optical properties based on multiconfigurationnal electronic structure calculations. He is also interested in magnetic properties and dynamics.
 - name: Nicolaj Kofod
   info: Postdoctoral Researcher
   photo: NK_pic1.jpg

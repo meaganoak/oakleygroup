@@ -42,6 +42,13 @@ const team = [
     image: "/images/pokedex/ieuan.jpg"
   },
   {
+    name: "MAXIME",
+    role: "",
+    type: "TYPE: Psychic",
+    bio: "A computational and theoretical chemist fascinated by light-matter interactions. With a natural ability to complexify his life, is keen to study heavy elements. Loves exploring the world, whether in this universe or fictional ones.",
+    image: "/images/pokedex/maxime.jpeg"
+  },
+  {
     name: "PIPPIN",
     role: "Dog pokemon",
     type: "TYPE: Fairy",
