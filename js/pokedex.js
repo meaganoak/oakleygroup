@@ -52,7 +52,7 @@ const team = [
     name: "PIPPIN",
     role: "Dog pokemon",
     type: "TYPE: Fairy",
-    bio: "",
+    bio: "Enjoys digging, rolling in the grass, and doing tricks for rare candies. Barks loud at anyone who asks `why don't you just use DFT?`",
     image: "/images/pokedex/pippin-dachsbun.png"
   }
 
