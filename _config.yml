@@ -9,9 +9,9 @@ theme: jekyll-theme-minimal
 
 # Site settings
 title: The Oakley Group
-email: your-email@domain.com
+email: meagan.oakley@manchester.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  The Oakley Group website.
+  The Oakley Group at the University of Manchester: computational chemistry, spectroscopy, and f-element electronic structure.
 baseurl: 
 url: ""
 

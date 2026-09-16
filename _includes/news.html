@@ -1,9 +1,12 @@
-
-<div class="well">
-<h4>News</h4>
-
-{% for article in site.data.news limit:9 %}
-{{ article.date }}<br>{{ article.headline | markdownify}}
-{% endfor %}
-
-    </div>
+<div class="news-feed">
+  <div class="section-heading">
+    <span>&gt;_</span>
+    <h2>NEWS</h2>
+  </div>
+  {% for article in site.data.news %}
+  <article class="news-feed-row">
+    <time>{{ article.date }}</time>
+    <div>{{ article.headline | markdownify }}</div>
+  </article>
+  {% endfor %}
+</div>
