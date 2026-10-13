@@ -1,6 +1,6 @@
-#- name: Ffion Jones
-#  photo: ffion.jpg
-#  info: MChem student
-#  number_educ: 2
-#  education1: Current MChem student, with a keen interest in physical and computational chemistry
- # education2: Ffion's research is focused on extended environment effects on simulating X-ray spectra of actinide dioxide compounds
+- name: Faith McLeish
+  photo: faith.jpeg
+  info: MChem student
+  number_educ: 2
+  education1: Current MChem student
+  education2: The aim of Faith’s research is the statistical assignment of electronic transitions in X-ray absoprtion spectra
