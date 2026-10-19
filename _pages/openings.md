@@ -17,11 +17,11 @@ CURRENT OPPORTUNITIES
 </h2>
 
 <h3 style="margin: 0 0 12px; font-size: 21px; font-weight: 400;">
-3.5-year PhD position — coming soon
+Open now: 3.5-year PhD position
 </h3>
 
 <p style="margin: 0;">
-**Sept 2026:** We will soon advertise a 3.5-year PhD position in the Oakley Group. Details will be posted here when the position opens.
+**Oct 2026:** I’m recruiting a fully funded UK PhD student to start in October 2027. You’ll use multiconfigurational quantum chemistry to simulate X-ray spectra of actinides in solution, with relevance to the nuclear fuel cycle. Applicants need at least a 2:1 or a master’s in Chemistry, Physics or a related discipline. Deadline: 18 December 2026. Please feel free to email me before applying. [Apply here](https://www.findaphd.com/phds/project/modelling-actinide-speciation-in-solution-with-multiconfigurational-quantum-chemistry-techniques/?p193231)
 </p>
 
 </div>
