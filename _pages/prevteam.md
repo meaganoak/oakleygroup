@@ -11,6 +11,15 @@ permalink: /previous-groups/
   <br>
 </div>
 
+<div class="text-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2026_c.jpeg" class="img-responsive" style="max-width: 45%; margin: 20px auto;" alt="The Oakley Group, 2026" />
+  <h3 style="margin-top: 10px;">The Oakley Group, 2026</h3>
+  <h5 style="font-weight: 400; color: #666; margin-top: 5px;">
+    From left to right: Lana Francis, Meagan Oakley, Maxime Grasser, Nicolaj Kofod, Ffion Jones, Faith McLeish, Fathima Thanha Thazhe Namboorikandy
+  </h5>
+  <br><br>
+</div>
+
 
 <div class="text-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/icfe12.jpeg" class="img-responsive" style="max-width: 45%; margin: 20px auto;" alt="The Oakley Group, 2026" />
