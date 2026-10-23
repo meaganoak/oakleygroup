@@ -8,7 +8,7 @@ permalink: /team/
 
 <div style="text-align: center; margin-bottom: 45px;">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2026.jpeg"
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/2026_c.jpeg"
        class="img-responsive"
        style="max-width: 45%; margin: 20px auto 12px;"
        alt="The Oakley Group, 2026" />
