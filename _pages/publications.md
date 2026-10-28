@@ -17,11 +17,11 @@ HIGHLIGHTS
 {% for publi in site.data.publist %}
 {% if publi.highlight == 1 %}
 
-<div style="background: #efeee8; border: 1px solid #c9c9c1; padding: 25px 30px; margin: 0 0 25px; overflow: hidden;">
+<div style="background: #efeee8; border: 1px solid #c9c9c1; padding: 25px 30px; margin: 0 0 25px; display: flow-root;">
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"
      alt="{{ publi.title }}"
-     style="width: 280px; float: left; margin: 0 30px 20px 0;">
+     style="width: 280px; max-width: 100%; height: auto; max-height: none; object-fit: contain; float: left; margin: 0 30px 20px 0;">
 
 <p style="margin-top: 0;">
   <strong>{{ publi.title }}</strong>
