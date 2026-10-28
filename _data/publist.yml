@@ -1,9 +1,17 @@
+- title: "Terminal Atom Effects on Magnetic Relaxation Rates in Uranium(V) 'Single-Molecule Magnets'"
+  image: ansmm.jpeg
+  authors: <strong>Meagan S. Oakley</strong>, Reece Q. Marsden, Nicholas F. Chilton*
+  link:
+   url: https://pubs.acs.org/inocaj/article/doi/10.1021/acs.inorgchem.6c04282/5459316/Terminal-Atom-Effects-on-Magnetic-Relaxation-Rates
+   display: 
+  highlight: 1
+
 - title: "Tunable Raman Scattering of Fe(II) Coordination Networks with Magnetic Fields"
   image:
-  authors: Guanping Li, Olaf Stefanczyk, Joseph M. Flitcroft, Jonathan M. Skelton, William Morrillo, <strong>Meagan S. Oakley</strong>, Lulu Xiong, Koji Nakabayashi, Dmitry Smirnov, Komalavalli Thirunavukkuarasu, Mykhaylo Ozerov, Shin-ichi Ohkoshi, Nicholas F. Chilton
+  authors: Guanping Li, Olaf Stefanczyk*, Joseph M. Flitcroft, Jonathan M. Skelton, William Morrillo, <strong>Meagan S. Oakley</strong>, Lulu Xiong, Koji Nakabayashi, Dmitry Smirnov, Komalavalli Thirunavukkuarasu, Mykhaylo Ozerov*, Shin-ichi Ohkoshi*, Nicholas F. Chilton*
   link:
-   url:
-   display:
+   url: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.1927294
+   display: Angew. Chem. Int. Ed. 2026, e1927294
   highlight: 0
 
 - title: "Actinide Tris (tetramethylcyclopentadienide) Complexes: Bonding and Electronic Structures Across the Isostructural [An(C<sub>5</sub>Me<sub>4</sub>H)<sub>3</sub>](An = Th, U, Np, Pu, Am) Series"
@@ -28,7 +36,7 @@
   link:
     url: https://pubs.acs.org/doi/10.1021/jacs.5c20785
     display: J. Am. Chem. Soc. 2026, 148, 11, 11758-11768
-  highlight: 1
+  highlight: 0
 
 - title: "Magnetic Hysteresis at 31 K in a Four-Coordinate Dysprosium(III) Amide Complex"
   image: dysmm.jpg
