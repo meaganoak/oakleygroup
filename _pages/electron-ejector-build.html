@@ -1,0 +1,458 @@
+---
+title: "The Oakley Group - Build an Electron Ejector"
+layout: textlay
+excerpt: "Parts lists and step-by-step instructions for building the Electron Ejector."
+sitemap: false
+permalink: /electron-ejector-build
+---
+
+<link rel="stylesheet" href="{{ site.baseurl }}/css/electron-ejector.css">
+
+<div class="ee ee-guide">
+
+<p class="ee-back"><a href="{{ site.baseurl }}/outreach">Back to the Electron Ejector</a></p>
+<h1>Build an Electron Ejector</h1>
+
+<section class="ee-intro ee-intro-single">
+  <p class="ee-lead">Everything you need to build your own: parts, steps, and wiring.</p>
+  <p>The build uses a Raspberry Pi 4B, addressable LED strips, plywood, CLS timber, and 3D-printed parts. The print files and Python code are on <a href="https://github.com/meaganoak/electronejector">GitHub</a>. Our electronics were fully enclosed and PAT tested.</p>
+</section>
+
+<nav class="ee-toc" aria-label="Build stages">
+<ul>
+<li><a href="#electronics">Electronics parts list</a></li>
+<li><a href="#tower-support">Tower Support Box</a></li><li><a href="#tower-bottom">Tower Bottom</a></li><li><a href="#tower-top">Tower Top</a></li><li><a href="#tower-assembly">Tower Assembly</a></li><li><a href="#led">LED Assembly</a></li><li><a href="#hitbox">Hit Box and Hammers Assembly</a></li><li><a href="#wiring">Wiring Assembly</a></li>
+<li><a href="#diagram">Electronics diagram</a></li>
+</ul>
+</nav>
+
+<section class="ee-section" id="electronics">
+<h2>Electronics parts list</h2>
+<p>The main electronics for the whole build. Each stage below lists what it needs, including the smaller components.</p>
+<div class="ee-table"><table>
+<thead><tr><th>Item</th><th>Quantity</th></tr></thead><tbody>
+<tr><td>Raspberry Pi Model 4B (and power supply)</td><td>×1</td></tr>
+<tr><td>Female Barrel Jack</td><td>×4</td></tr>
+<tr><td>Male Barrel Jack</td><td>×3</td></tr>
+<tr><td>Arcade Buttons</td><td>×2</td></tr>
+<tr><td>1 meter LED strip x4 (60 LEDs per meter; addressable)</td><td>×1</td></tr>
+<tr><td>5V 10A Power supply with male barrel jack connector (for LEDs)</td><td>×1</td></tr>
+<tr><td>12V 2.5A Step Up/Step Down Voltage Regulator</td><td>×1</td></tr>
+<tr><td>1000 µF capacitor</td><td>×1</td></tr>
+<tr><td>Monitor with HDMI input (and power supply)</td><td>×1</td></tr>
+<tr><td>Stranded wire for connections</td><td>lots</td></tr>
+</tbody></table></div>
+</section>
+
+<section class="ee-section" id="tower-support">
+<h2>1. Tower Support Box</h2>
+<h3>You will need</h3>
+<div class="ee-table"><table>
+<thead><tr><th>Part</th><th>Quantity</th><th>Size</th><th>Material</th></tr></thead><tbody>
+<tr><td>Tower Support Platform</td><td>×1</td><td>410 mm × 410 mm</td><td>9 mm plywood</td></tr>
+<tr><td>Tower Support Front Panel</td><td>×1</td><td>410 mm × 145 mm</td><td>5 mm plywood</td></tr>
+<tr><td>Tower Support Back Panel</td><td>×1</td><td>410 mm × 145 mm</td><td>5 mm plywood</td></tr>
+<tr><td>Tower Support Side Panel</td><td>×2</td><td>410 mm × 145 mm</td><td>5 mm plywood</td></tr>
+<tr><td>Tower Foot</td><td>×4</td><td>145 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Support (Left)</td><td>×2</td><td>312 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Support (Right)</td><td>×2</td><td>312 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Support (Front)</td><td>×2</td><td>332 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Support (Back)</td><td>×2</td><td>332 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Support (Mid Brace)</td><td>×2</td><td>332 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>M10 Bolts</td><td>×3</td><td>M10, 120 mm</td><td>-</td></tr>
+<tr><td>Woodscrews</td><td>×18</td><td>4 mm × 70 mm</td><td>-</td></tr>
+<tr><td>Woodscrews</td><td>×31</td><td>4 mm × 15 mm</td><td>-</td></tr>
+</tbody></table></div>
+<h3>Steps</h3>
+<ol class="ee-steps">
+<li>Cut all CLS pieces to size.
+</li>
+<li>Do NOT pre-drill holes in the Mid Brace of Tower Support (Back) yet. These need to be drilled with the tower so everything lines up.
+</li>
+<li>Screw the Tower Support CLS sections together at the red marked locations on each Tower Foot with 4 mm × 70 mm woodscrews. Use clamps to help keep things square. (Figures 1-2)
+<figure id="fig1"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig1.png" alt="Tower Support Frame."><figcaption>Figure 1: Tower Support Frame.</figcaption></figure>
+<figure id="fig2"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig2.png" alt="Tower Support Frame Screw Locations."><figcaption>Figure 2: Tower Support Frame Screw Locations.</figcaption></figure>
+</li>
+<li>Cut all plywood sheets to size.
+</li>
+<li>Pre-drill the electronics holes in the Support Platform and Front Panel, but NOT the Tower Bolt Holes in the Support Platform. These need to be drilled with the tower so everything lines up (Figures 3-4).
+<figure id="fig3"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig3.png" alt="Tower Bottom Front Panel Holes."><figcaption>Figure 3: Tower Bottom Front Panel Holes.</figcaption></figure>
+<figure id="fig4"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig4.png" alt="Tower Bottom Platform Holes."><figcaption>Figure 4: Tower Bottom Platform Holes.</figcaption></figure>
+</li>
+<li>Use 4 mm × 15 mm woodscrews to attach all the panels to the Tower Support frame, at the red marked locations, on all the panels. Make sure to avoid the existing screws in the frame Tower Feet just to the inside of the Frame screws (Figures 5-6).
+<figure id="fig5"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig5.png" alt="Tower Support Panels."><figcaption>Figure 5: Tower Support Panels.</figcaption></figure>
+<figure id="fig6"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig6.png" alt="Tower Support Panel Screw Locations."><figcaption>Figure 6: Tower Support Panel Screw Locations.</figcaption></figure>
+</li>
+<li>Lightly sand down any sharp edges.
+</li>
+<li>Paint the outside of the Tower Support Box.
+</li>
+</ol>
+</section>
+
+<section class="ee-section" id="tower-bottom">
+<h2>2. Tower Bottom</h2>
+<h3>You will need</h3>
+<div class="ee-table"><table>
+<thead><tr><th>Part</th><th>Quantity</th><th>Size</th><th>Material</th></tr></thead><tbody>
+<tr><td>Tower Bottom Front Panel</td><td>×1</td><td>500 mm × 310 mm</td><td>5 mm plywood</td></tr>
+<tr><td>Tower Bottom Side Panel (Left and Right)</td><td>×2</td><td>500 mm × 200 mm</td><td>5 mm plywood</td></tr>
+<tr><td>Tower Bottom (Left and Right Upright)</td><td>×2</td><td>500 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Bottom Foot Cross</td><td>×2</td><td>232 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Bottom Foot (Left and Right)</td><td>×2</td><td>150 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Bottom Mid-Cross</td><td>×2</td><td>300 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Woodscrews</td><td>×10</td><td>4 mm × 70 mm</td><td>-</td></tr>
+<tr><td>Woodscrews</td><td>×17</td><td>4 mm × 15 mm</td><td>-</td></tr>
+</tbody></table></div>
+<h3>Steps</h3>
+<ol class="ee-steps">
+<li>Cut all CLS pieces to size.
+</li>
+<li>Using the 3D Printed Drill Guide Pre-drill the 10 or 12 mm diameter holes in the Foot Crosses (Figures 7-8).
+<figure id="fig7"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig7.png" alt="Tower Bottom Front Foot Cross Holes."><figcaption>Figure 7: Tower Bottom Front Foot Cross Holes.</figcaption></figure>
+<figure id="fig8"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig8.png" alt="Tower Bottom Back Foot Cross Holes."><figcaption>Figure 8: Tower Bottom Back Foot Cross Holes.</figcaption></figure>
+</li>
+<li>Using 4 mm × 70 mm screws, attach the Tower Bottom frame pieces together (Figures 9-10).
+<figure id="fig9"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig9.png" alt="Tower Bottom Frame."><figcaption>Figure 9: Tower Bottom Frame.</figcaption></figure>
+<figure id="fig10"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig10.png" alt="Tower Bottom Frame Screw Locations."><figcaption>Figure 10: Tower Bottom Frame Screw Locations.</figcaption></figure>
+</li>
+<li>Cut all Plywood sheets to size. Cut the Side panels at an angle as in the diagram in Figure 11.
+<figure id="fig11"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig11.png" alt="Tower Bottom Side Panel Dimensions."><figcaption>Figure 11: Tower Bottom Side Panel Dimensions.</figcaption></figure>
+</li>
+<li>Using 4 mm × 15 mm woodscrews, attach the Front and Side Panels (Figures 12-13).
+<figure id="fig12"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig12.png" alt="Tower Bottom Panels."><figcaption>Figure 12: Tower Bottom Panels.</figcaption></figure>
+<figure id="fig13"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig13.png" alt="Tower Bottom Panel Screw Locations."><figcaption>Figure 13: Tower Bottom Panel Screw Locations.</figcaption></figure>
+</li>
+<li>Lightly sand down any sharp edges and paint the outside of the Tower Bottom.
+</li>
+</ol>
+</section>
+
+<section class="ee-section" id="tower-top">
+<h2>3. Tower Top</h2>
+<h3>You will need</h3>
+<div class="ee-table"><table>
+<thead><tr><th>Part</th><th>Quantity</th><th>Size</th><th>Material</th></tr></thead><tbody>
+<tr><td>Tower Top Front Panel</td><td>×1</td><td>500 mm × 310 mm</td><td>5 mm plywood</td></tr>
+<tr><td>Tower Top Side Panel (Right and Left)</td><td>×2</td><td>500 mm × 119 mm</td><td>5 mm plywood</td></tr>
+<tr><td>Tower Top Upright (Left and Right)</td><td>×2</td><td>400 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Tower Top Cross (Mid ×2, Top ×1)</td><td>×3</td><td>300 mm length</td><td>44 mm × 34 mm CLS lumber</td></tr>
+<tr><td>Woodscrews</td><td>×6</td><td>4 mm × 70 mm</td><td>-</td></tr>
+<tr><td>Woodscrews</td><td>×15</td><td>4 mm × 15 mm</td><td>-</td></tr>
+</tbody></table></div>
+<h3>Steps</h3>
+<ol class="ee-steps">
+<li>Cut all CLS pieces to size.
+</li>
+<li>Using 4 mm × 70 mm woodscrews, attach the Tower Top frame together (Figures 14-15).
+<figure id="fig14"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig14.png" alt="Tower Top Frame."><figcaption>Figure 14: Tower Top Frame.</figcaption></figure>
+<figure id="fig15"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig15.png" alt="Tower Top Frame Screw Locations."><figcaption>Figure 15: Tower Top Frame Screw Locations.</figcaption></figure>
+</li>
+<li>Cut all Plywood sheets to size. Cut the Side panels at an angle as in the diagram in Figure 16.
+<figure id="fig16"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig16.png" alt="Tower Top Side Panel Dimensions."><figcaption>Figure 16: Tower Top Side Panel Dimensions.</figcaption></figure>
+</li>
+<li>Using 4 mm × 15 mm woodscrews, attach the Front and Side Panels (Figures 17-18).
+<figure id="fig17"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig17.png" alt="Tower Top Panels."><figcaption>Figure 17: Tower Top Panels.</figcaption></figure>
+<figure id="fig18"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig18.png" alt="Tower Top Panel Screw Locations."><figcaption>Figure 18: Tower Top Panel Screw Locations.</figcaption></figure>
+</li>
+<li>Lightly sand down any sharp edges and paint the outside of the Tower Top.
+</li>
+</ol>
+</section>
+
+<section class="ee-section" id="tower-assembly">
+<h2>4. Tower Assembly</h2>
+<h3>You will need</h3>
+<div class="ee-table"><table>
+<thead><tr><th>Item</th><th>Quantity</th></tr></thead><tbody>
+<tr class="ee-group"><th colspan="2">Subassemblies</th></tr>
+<tr><td>Tower Top</td><td>×1</td></tr>
+<tr><td>Tower Bottom</td><td>×1</td></tr>
+<tr><td>Tower Support</td><td>×1</td></tr>
+<tr class="ee-group"><th colspan="2">Hardware</th></tr>
+<tr><td>Hinge and Mounting Screws</td><td>×1</td></tr>
+<tr><td>Clips and Mounting Screws</td><td>×2</td></tr>
+<tr><td>M10 × 120 mm Bolts</td><td>×3</td></tr>
+<tr><td>M10 Washers</td><td>×3</td></tr>
+<tr><td>M10 Nuts</td><td>×3</td></tr>
+<tr><td>M4 × 16 mm Bolts</td><td>×4</td></tr>
+<tr><td>M6 × 20 mm Bolts</td><td>×2</td></tr>
+<tr><td>M6 Heat Set Inserts</td><td>×2</td></tr>
+<tr class="ee-group"><th colspan="2">3D Printed Parts</th></tr>
+<tr><td>Hook Screen Mounts (Left and Right)</td><td>×2</td></tr>
+<tr><td>25 mm Hole Wire Grommets</td><td>×2</td></tr>
+<tr><td>Barrel Jack Panel Mounts</td><td>×3</td></tr>
+<tr class="ee-group"><th colspan="2">Electronics</th></tr>
+<tr><td>Screen</td><td>×1</td></tr>
+<tr><td>Arcade Button</td><td>×1</td></tr>
+<tr class="ee-group"><th colspan="2">Tools</th></tr>
+<tr><td>3D Printed M10 Drill Guide</td><td>×1</td></tr>
+<tr><td>10 mm Drill Bit</td><td>×1</td></tr>
+<tr><td>6 mm Drill Bit</td><td>×1</td></tr>
+<tr><td>Drill</td><td>×1</td></tr>
+<tr><td>Soldering Iron</td><td>×1</td></tr>
+</tbody></table></div>
+<h3>Steps</h3>
+<ol class="ee-steps">
+<li>Attach the Tower Top to the Tower Bottom by aligning the Mid-Cross braces and Front Panels. Use the included mounting screws to attach the hinge in its open position (Figure 19).
+<figure id="fig19"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig19.png" alt="Tower Hinge Location."><figcaption>Figure 19: Tower Hinge Location.</figcaption></figure>
+</li>
+<li>Attach the Clips to the Side Panels on the Tower Top and Tower Bottom, one half on each side of the tower sections, using the included mounting screws (Figure 20).
+<figure id="fig20"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig20.png" alt="Tower Side Panel Clips Location."><figcaption>Figure 20: Tower Side Panel Clips Location.</figcaption></figure>
+</li>
+<li>Align the Tower on the Tower Support centred Left to Right, the Front Panel of the tower just behind the hole in the centre of the Tower Support, and the Back Foot Cross of the tower at the back edge of the Support. Mark out the 10 mm drill holes (Figure 21).
+<figure id="fig21"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig21.png" alt="Tower M10 Bolt Hole Locations."><figcaption>Figure 21: Tower M10 Bolt Hole Locations.</figcaption></figure>
+</li>
+<li>Use the 3D Printed Drill Guide to drill through the Tower Support Platform panel and through the cross braces underneath.
+</li>
+<li>Use the M10 bolts, washers and nuts to attach the Tower to the Support base (Figure 22).
+<figure id="fig22"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig22.png" alt="Tower Bolts Detail."><figcaption>Figure 22: Tower Bolts Detail.</figcaption></figure>
+</li>
+<li>Use the Soldering Iron to press in M6 ×2 heat set inserts into the Screen Hook Mounts (Figure 23).
+<figure id="fig23"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig23.png" alt="Screen Hook Heat Set Insert Locations."><figcaption>Figure 23: Screen Hook Heat Set Insert Locations.</figcaption></figure>
+</li>
+<li>Attach the Screen Hook Mounts to the Monitor, hang the Monitor at the top of the tower and mark the holes to drill (Figure 24).
+<figure id="fig24"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig24.png" alt="Screen Hook M4 Bolt Locations."><figcaption>Figure 24: Screen Hook M4 Bolt Locations.</figcaption></figure>
+</li>
+<li>Remove and then drill the holes with the 6 mm drillbit (Figure 25).
+<figure id="fig25"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig25.png" alt="Screen Mount Drill Hole Locations."><figcaption>Figure 25: Screen Mount Drill Hole Locations.</figcaption></figure>
+</li>
+<li>Paint the Barrel Jack Panel Mounts to match the Hammer Colours chosen.
+</li>
+<li>Install the Select Arcade Button, Barrel Jack Panel Mounts, and Wire Grommets in the Support base by placing the front half through the holes from the outside, and using the associated plastic nuts to clamp the plywood from the inside of the Support base (Figures 26-27).
+<figure id="fig26"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig26.png" alt="Front Panel Hardware Installation."><figcaption>Figure 26: Front Panel Hardware Installation.</figcaption></figure>
+<figure id="fig27"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig27.png" alt="Tower Wire Grommet Installation."><figcaption>Figure 27: Tower Wire Grommet Installation.</figcaption></figure>
+</li>
+</ol>
+</section>
+
+<section class="ee-section" id="led">
+<h2>5. LED Assembly</h2>
+<h3>You will need</h3>
+<div class="ee-table"><table>
+<thead><tr><th>Item</th><th>Quantity</th></tr></thead><tbody>
+<tr class="ee-group"><th colspan="2">3D Printed Parts</th></tr>
+<tr><td>Diffuser Cover Top</td><td>×1</td></tr>
+<tr><td>Diffuser Cover Bottom</td><td>×1</td></tr>
+<tr><td>Diffuser Covers</td><td>×3</td></tr>
+<tr><td>Diffuser Mounts</td><td>×5</td></tr>
+<tr><td>Mount Glue Clamps</td><td>×5</td></tr>
+<tr class="ee-group"><th colspan="2">Electronics</th></tr>
+<tr><td>1 m Addressable LED Strips, 60 LEDs/m</td><td>×4</td></tr>
+<tr><td>Male 3-wire JST Connector</td><td>×4</td></tr>
+<tr><td>Female 3-wire JST Connector</td><td>×4</td></tr>
+<tr class="ee-group"><th colspan="2">Hardware</th></tr>
+<tr><td>M4 × 8 mm Bolts</td><td>×18</td></tr>
+<tr><td>M4 Nuts</td><td>×18</td></tr>
+<tr><td>Velcro Strips with Sticky Back</td><td>×1</td></tr>
+<tr class="ee-group"><th colspan="2">Tools</th></tr>
+<tr><td>Clamps</td><td>×1</td></tr>
+<tr><td>Silicone Glue</td><td>×1</td></tr>
+</tbody></table></div>
+<h3>Steps</h3>
+<ol class="ee-steps">
+<li>Cut LED strips into 1 m lengths (if needed). Solder the JST connectors between the sections, according to the wiring diagram.
+</li>
+<li>Using the Mount Glue Clamp, take the Diffuser Mounts and place them according to the diagram in Figure 28, starting with the bottom of the LED strips at the right hand side of the diagram:
+<figure id="fig28"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig28.png" alt="Diffuser Mount Clamp Orientation."><figcaption>Figure 28: Diffuser Mount Clamp Orientation.</figcaption></figure>
+</li>
+<li>Use the Silicone Glue and Mount Glue Clamp to fix the strips to each Mount, and let them fully cure. Check the spacing against the LED Diffuser Covers, and adjust if needed (Figures 29-30).
+<figure id="fig29"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig29.png" alt="Example of How to Glue and Clamp the Diffuser Covers."><figcaption>Figure 29: Example of How to Glue and Clamp the Diffuser Covers.</figcaption></figure>
+<figure id="fig30"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig30.png" alt="Completed Diffuser Cover Assembly."><figcaption>Figure 30: Completed Diffuser Cover Assembly.</figcaption></figure>
+</li>
+<li>Place an M4 nut in each of the Diffuser Mounts, an M4 Bolt through the outer hole and screw it into the nut. Use a dab of Silicone glue to seal the slot and trap each nut (Figure 31). Let this cure fully.
+<figure id="fig31"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig31.png" alt="M4 Placement in Diffuser Mounts."><figcaption>Figure 31: M4 Placement in Diffuser Mounts.</figcaption></figure>
+</li>
+<li>Attach the Diffuser Covers onto the Mounts by unscrewing the M4 Bolts slightly, placing the pocket of the Diffuser plate over the bolt heads, then clamping the Diffuser Plates against the mount by tightening the bolts.
+</li>
+<li>Place a strip of sticky-backed Velcro on each Diffuser Mount. Place the matching side onto the Velcro and remove the backing.
+</li>
+<li>Stick the LED Assembly onto the Tower, hooking the Top Diffuser Cover on the Tower and lining up the Bottom Diffuser Cover around the Wire Grommet in the Tower Support. Take care the LED strips are in the channels of the Top Diffuser Cover so they don’t get pinched. Press firmly to stick the Velcro to the tower. (Figure 32)
+<figure id="fig32"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig32.png" alt="Diffuser Cover Placement on Tower."><figcaption>Figure 32: Diffuser Cover Placement on Tower.</figcaption></figure>
+</li>
+</ol>
+</section>
+
+<section class="ee-section" id="hitbox">
+<h2>6. Hit Box and Hammers Assembly</h2>
+<h3>You will need</h3>
+<div class="ee-table"><table>
+<thead><tr><th>Item</th><th>Quantity</th></tr></thead><tbody>
+<tr class="ee-group"><th colspan="2">3D Printed Parts</th></tr>
+<tr><td>Hammer Button Box Top</td><td>×1</td></tr>
+<tr><td>Hammer Button Box Bottom</td><td>×1</td></tr>
+<tr><td>Hammer Button Box Body</td><td>×1</td></tr>
+<tr><td>Hammer Caps</td><td>×6</td></tr>
+<tr><td>Barrel Jack Hammer Plugs</td><td>×3</td></tr>
+<tr class="ee-group"><th colspan="2">Electronics</th></tr>
+<tr><td>Arcade Button</td><td>×1</td></tr>
+<tr><td>3-strand Wire (1.5 m minimum)</td><td>×1</td></tr>
+<tr><td>Single Stranded Wire (10 cm)</td><td>×1</td></tr>
+<tr><td>Male Barrel Jack Hammer Plugs</td><td>×3</td></tr>
+<tr class="ee-group"><th colspan="2">Hardware</th></tr>
+<tr><td>M4 × 10 mm Bolts (or longer)</td><td>×8</td></tr>
+<tr><td>Blade Terminals</td><td>×1</td></tr>
+<tr><td>Hammers</td><td>×3</td></tr>
+<tr><td>Thick String / Yarn (3 m minimum)</td><td>×1</td></tr>
+<tr><td>Super Glue</td><td>×1</td></tr>
+<tr class="ee-group"><th colspan="2">Tools</th></tr>
+<tr><td>Wire Crimper for Blade Terminals</td><td>×1</td></tr>
+</tbody></table></div>
+<h3>Steps</h3>
+<ol class="ee-steps">
+<li>Paint the Button Box parts, if desired.
+</li>
+<li>Place ‘Hit’ Arcade button through the Button Box Top, and screw plastic nut on back to clamp it to the Top.
+</li>
+<li>Cut the length of 3-strand wire needed to have the Button Box placed where you like (at least 1.5 m). Strip and terminate the 3 wire ends with blade terminals, and attach these to the button according to the wiring diagram.
+</li>
+<li>Screw the Top to the Body with M4 bolts.
+</li>
+<li>Make sure the wire lines up in the hole of the Box Body so it doesn’t get pinched, and screw the Bottom to the Body with M4 bolts.
+</li>
+<li>Run the 3-strand wire from the Wire Hole Grommet beneath the LED Diffuser and up through the Grommet inside the Tower (Figure 33).
+<figure id="fig33"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig33.png" alt="Hit Box Wiring through the Tower."><figcaption>Figure 33: Hit Box Wiring through the Tower.</figcaption></figure>
+</li>
+<li>Paint the Hammers to match the Barrel Jack Panel Mounts.
+</li>
+<li>Use super glue to fix the caps onto the hammers.
+</li>
+<li>Short the Barrel Jack Plugs by placing a small length of Single-strand wire to link the +ve and -ve terminals of the plug.
+</li>
+<li>Cut a length of String/Yarn to desired size (at least 1 m), and feed it into the back of the Barrel Jack Hammer Plug 3D printed part, knot it inside.
+</li>
+<li>Place the Barrel Jack Plug electronic part inside the 3D printed housing and screw the housing to the faceplate (Figure 34).
+<figure id="fig34"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig34.png" alt="Hammer Plug Assembly."><figcaption>Figure 34: Hammer Plug Assembly.</figcaption></figure>
+</li>
+</ol>
+</section>
+
+<section class="ee-section" id="wiring">
+<h2>7. Wiring Assembly</h2>
+<h3>You will need</h3>
+<div class="ee-table"><table>
+<thead><tr><th>Item</th><th>Quantity</th></tr></thead><tbody>
+<tr class="ee-group"><th colspan="2">Assemblies</th></tr>
+<tr><td>Completed Tower</td><td>×1</td></tr>
+<tr><td>Hit Box Assembly</td><td>×1</td></tr>
+<tr><td>LED Assembly</td><td>×1</td></tr>
+<tr><td>Electronic Components</td><td>×1</td></tr>
+<tr><td>Hammers and Plugs</td><td>×1</td></tr>
+<tr class="ee-group"><th colspan="2">Electronics</th></tr>
+<tr><td>2 or 3-strand Wire (1.5 m minimum)</td><td>×3</td></tr>
+<tr><td>3-strand Wire (1.5 m minimum)</td><td>×1</td></tr>
+<tr><td>Male Barrel Jack Hammer Plugs</td><td>×3</td></tr>
+<tr><td>Bootlace Ferrules, 22AWG</td><td>×1</td></tr>
+<tr><td>Blade Terminals</td><td>×1</td></tr>
+<tr><td>Female Barrel Jack Connector</td><td>×1</td></tr>
+<tr><td>1000 µF Capacitor</td><td>×1</td></tr>
+<tr><td>500 Ω Resistor</td><td>×1</td></tr>
+<tr><td>Female 3-wire JST Connector</td><td>×1</td></tr>
+<tr><td>Heat Shrink</td><td>×1</td></tr>
+<tr><td>Raspberry Pi 4B</td><td>×1</td></tr>
+<tr><td>Screw Terminal Header for Raspberry Pi</td><td>×1</td></tr>
+<tr><td>12 V Step-Up/Step-Down Voltage Regulator</td><td>×1</td></tr>
+<tr><td>Micro HDMI to HDMI Cable</td><td>×1</td></tr>
+<tr><td>LED Power Supply</td><td>×1</td></tr>
+<tr><td>Screen Power Supply</td><td>×1</td></tr>
+<tr><td>Raspberry Pi Power Supply</td><td>×1</td></tr>
+<tr class="ee-group"><th colspan="2">3D Printed Parts</th></tr>
+<tr><td>Electronics Mounting Plate</td><td>×1</td></tr>
+<tr class="ee-group"><th colspan="2">Tools</th></tr>
+<tr><td>Bootlace Terminal Crimp</td><td>×1</td></tr>
+<tr><td>Wire Crimper for Blade Terminals</td><td>×1</td></tr>
+<tr><td>Size 0 Philips Head Screwdriver</td><td>×1</td></tr>
+<tr><td>Size 00 Flathead Screwdriver</td><td>×1</td></tr>
+<tr><td>3 mm × 1 mm Zip Ties</td><td>×1</td></tr>
+<tr><td>Velcro Strips</td><td>×1</td></tr>
+</tbody></table></div>
+<h3>Steps</h3>
+<ol class="ee-steps">
+<li>Referencing the Electronics Diagram in <a href="#diagram">the electronics diagram</a>, wire the Female Barrel jack plugs with 2 or 3-strand wire.
+<ol type="a">
+<li>Cut each to length so it can be fed up through the Tower Wire Grommet and to the top of the Tower, where the Raspberry Pi will sit; approx. 1.5 m each.
+</li>
+<li>Strip the wire ends, and attach a Bootlace terminal to each end, then attach to Barrel Jack screw terminals.
+</li>
+<li>With wires attached, unscrew the plastic nut on the back of the Hammer Plug Panel Mounts, remove the side plate, and place the Female Barrel Jack Plug inside.
+</li>
+<li>Replace the side plate, and tighten the plastic nut to trap the wired Barrel Jack.
+</li>
+</ol>
+</li>
+<li>Referencing the Electronics Diagram in <a href="#diagram">the electronics diagram</a>, wire the ‘Select’ Arcade button 3-strand wire.
+<ol type="a">
+<li>Cut each to length so it can be fed up through the Tower Wire Grommet and to the top of the Tower, where the Raspberry Pi will sit; approx. 1.5 m.
+</li>
+<li>Strip the wire ends, and attach a Blade terminal to each end, then attach to the Arcade Button wiring blades.
+</li>
+</ol>
+</li>
+<li>Referencing the Electronics Diagram in <a href="#diagram">the electronics diagram</a>, prepare a wiring harness for the LEDs:
+<ol type="a">
+<li>Use a Female Barrel Jack connector (matching the LED Power Supply).
+</li>
+<li>Place a 1000 µF capacitor across the +ve and -ve sides of the Barrel Jack
+</li>
+<li>Cut a short length of wire each for the +ve and -ve connections for power. Terminate the ends with a Bootlace connector.
+</li>
+<li>Strip a short section in the middle of each wire to splice in the JST wires.
+</li>
+<li>Solder the Female JST +ve and -ve to these wires as a splice.
+</li>
+<li>Wrap each splice in electrical tape or heat shrink.
+</li>
+<li>Cut the Data JST wire, and solder a 500 Ω resistor in the middle, reattaching the Data wire with the resistor in the middle of the cut. Heat shrink or electrical tape the join to protect the resistor.
+</li>
+</ol>
+</li>
+<li>Route all cables according to the simplified wiring diagram in Figure 35.
+<ol type="a">
+<li>Red = Hit Box 3-strand Wire
+</li>
+<li>Yellow = Select Button 3-strand Wire
+</li>
+<li>White, Dark Blue, Orange = Hammer Female Barrel Jack Plugs
+</li>
+<li>Green = Screen HDMI
+</li>
+<li>Beige = LED Data and Power
+</li>
+<li>Light Blue = LED Power Supply
+</li>
+<li>Purple = Screen Power Supply
+</li>
+<li>Grey = Raspberry Pi Power Supply
+</li>
+</ol>
+<figure id="fig35"><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/Fig35.png" alt="Simplified Wiring Diagram of the Electron Ejector."><figcaption>Figure 35: Simplified Wiring Diagram of the Electron Ejector.</figcaption></figure>
+</li>
+<li>Attach the Screw Terminal Header to the Raspberry Pi.
+</li>
+<li>Screw the Raspberry Pi to the Electronics Mounting Plate.
+</li>
+<li>Screw the 12 V Voltage Regulator to the Electronics Mounting Plate, and attach the cover with zip ties.
+</li>
+<li>Attach the Electronics Mounting Plate to the back of the Tower with Velcro Strips.
+</li>
+<li>Zip tie the Arcade Button and Hammer Plug wires to the Electronics Mounting plate on the printed pedestals.
+</li>
+<li>Terminate all wire ends to be plugged into Raspberry Pi screw terminal header with Bootlace ferrules.
+</li>
+<li>Perform the detailed wiring to the Raspberry Pi and the 12 V Step-Up/Step-Down Regulator per the Electronics Diagram in <a href="#diagram">the electronics diagram</a>, but ensure NO POWER is plugged in.
+</li>
+<li>Double-check the wiring, then plug into power and turn on the Raspberry Pi.
+</li>
+<li>Attach a keyboard and mouse to complete the setup.
+</li>
+<li>Download and run the Electron Ejector code from <a href="https://github.com/meaganoak/electronejector">GitHub</a>.
+</li>
+</ol>
+</section>
+
+<section class="ee-section" id="diagram">
+<h2>Electronics diagram</h2>
+<figure><img loading="lazy" src="{{ site.baseurl }}/images/electronejector/build/circuit_diagram.png" alt="Full electronics diagram for wiring the Electron Ejector components."><figcaption>Full electronics diagram for wiring the Electron Ejector components.</figcaption></figure>
+</section>
+
+</div>

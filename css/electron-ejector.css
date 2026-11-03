@@ -1,0 +1,84 @@
+/* Electron Ejector outreach page. Builds on the variables in main.scss. */
+.ee h1{margin-top:0;padding-bottom:13px;border-bottom:1px solid var(--ink)}
+.ee h2{margin:0 0 15px;font-size:22px;color:var(--purple)}
+.ee h3{margin:0 0 8px;font-size:17px}
+.ee img{display:block;max-width:100%;height:auto}
+.ee figure{margin:0}
+.ee-intro{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:35px;align-items:center;margin:25px 0 45px;padding:30px 35px;background:#efeee8;border:1px solid var(--line)}
+.ee-intro p:last-child{margin-bottom:0}
+.ee-lead{font-size:20px;line-height:1.4;color:var(--purple);margin-top:0}
+.ee-figure img{width:100%}
+.ee-figure figcaption{padding:6px 9px;font-size:12px;color:var(--muted);border-top:1px solid #aaa9a1}
+.ee-section{margin:0 0 45px;padding-top:30px;border-top:1px solid var(--soft-line);scroll-margin-top:20px}
+
+/* Game */
+.ee-game{margin-top:20px}
+.ee-cabinet{display:grid;grid-template-columns:34px minmax(0,1fr) 250px;gap:18px;padding:18px;background:#141414}
+.ee-tower{position:relative;background:#050505;border:1px solid #444;overflow:hidden;min-height:200px}
+.ee-leds{position:absolute;inset:0;background:linear-gradient(to top,#f00,#ff0,#0f0,#0ff,#00f,#f0f);clip-path:inset(100% 0 0 0)}
+.ee-tower::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(to top,transparent 0 6px,rgba(0,0,0,.65) 6px 8px)}
+.ee-screen{display:flex;align-items:center;justify-content:center;aspect-ratio:16/9;background:#000;border:6px solid #2b2b2b;min-width:0}
+.ee-screen img{width:100%;height:100%;object-fit:contain}
+.ee-controls{display:flex;flex-direction:column;gap:12px;min-width:0}
+.ee-game button{border:0;cursor:pointer;color:#fff;font-weight:700}
+.ee-game button:focus-visible{outline:3px solid #fff;outline-offset:2px}
+.ee-arcade{padding:10px;letter-spacing:.08em;text-transform:uppercase;border-radius:999px}
+.ee-select{background:#3f5f9e}
+.ee-hit{background:#c62f2f}
+.ee-game .ee-hit:disabled{background:#4a4a4a;color:#a5a5a5;cursor:not-allowed}
+.ee-arcade:not(:disabled):active{transform:translateY(2px)}
+.ee-hammers{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.ee-hammer{padding:9px 2px;font-size:13px;border-bottom:4px solid transparent!important;opacity:.72}
+.ee-hammer[data-hammer=red]{background:#b3261e}
+.ee-hammer[data-hammer=green]{background:#23702f}
+.ee-hammer[data-hammer=violet]{background:#6a3fb5}
+.ee-hammer[aria-pressed=true]{opacity:1;border-bottom-color:#fff!important}
+.ee-status{margin:0;min-height:68px;font-size:13px;line-height:1.45;color:#f5f3df}
+
+/* Content blocks */
+.ee-compare{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
+.ee-card{padding:20px 22px;background:var(--panel);border:1px solid var(--line)}
+.ee-card p{margin:0}
+.ee-events{list-style:none;margin:0 0 20px;padding:0}
+.ee-events li{display:grid;grid-template-columns:90px minmax(0,1fr);gap:15px;padding:12px 0;border-bottom:1px solid var(--soft-line)}
+.ee-events time{color:var(--purple);font-size:13px;padding-top:2px}
+.ee-quotes{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:15px}
+.ee blockquote{margin:0;padding:0 0 0 14px;font-size:15px;border-left:3px solid var(--purple);color:inherit}
+.ee-build{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:35px;align-items:start}
+.ee-build-text>:first-child{margin-top:0}
+.ee-build-images{display:grid;gap:18px}
+.ee-build-images .ee-figure:first-child img{width:60%;margin:0 auto}
+.ee-links{display:flex;flex-wrap:wrap;gap:10px}
+.ee-links a{padding:7px 12px;border:1px solid var(--purple)}
+.ee-credits{margin-bottom:0}
+
+@media(max-width:860px){
+  .ee-intro,.ee-build,.ee-compare,.ee-quotes{grid-template-columns:minmax(0,1fr)}
+  .ee-intro{padding:22px 20px}
+  .ee-cabinet{grid-template-columns:24px minmax(0,1fr);gap:12px;padding:12px}
+  .ee-tower{min-height:0}
+  .ee-controls{grid-column:1/-1}
+  .ee-status{min-height:58px}
+  .ee-build-images{grid-template-columns:1fr 1fr;align-items:start}
+  .ee-build-images .ee-figure:first-child img{width:100%}
+}
+
+/* Build guide */
+.ee-sub{margin-top:25px}
+.ee-back{margin:0 0 15px;font-size:13px}
+.ee-intro-single{display:block}
+.ee-toc{margin:0 0 35px}
+.ee-toc ul{margin:0;padding-left:20px;columns:2;column-gap:40px}
+.ee-table{overflow-x:auto;margin:0 0 20px}
+.ee-table table{width:100%;border-collapse:collapse;background:var(--panel);font-size:14px}
+.ee-table th,.ee-table td{padding:6px 10px;border:1px solid var(--soft-line);text-align:left;vertical-align:top}
+.ee-table thead th{background:#efeee8;font-weight:700}
+.ee-table .ee-group th{color:var(--purple);font-weight:700}
+.ee-guide h3{margin-top:22px}
+.ee-steps{padding-left:26px}
+.ee-steps>li{margin-bottom:12px}
+.ee-steps ol{margin-top:6px;padding-left:24px}
+.ee-guide figure{max-width:520px;margin:12px 0 18px;background:var(--panel);border:1px solid var(--line)}
+.ee-guide #diagram figure{max-width:none}
+.ee-guide figcaption{padding:6px 9px;font-size:12px;color:var(--muted);border-top:1px solid var(--soft-line)}
+@media(max-width:860px){.ee-toc ul{columns:1}}
