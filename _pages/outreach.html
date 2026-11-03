@@ -32,6 +32,21 @@ permalink: /outreach
   .ee-build-pair { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; }
   .ee-build-pair figure { margin: 0; }
   .ee-build-pair img { display: block; width: 100%; height: auto; }
+.ee .ee-build-pair {
+  align-items: stretch;
+}
+
+.ee .ee-build-pair img {
+  height: 400px;
+}
+
+.ee .ee-build-pair figure:first-child img {
+  object-fit: cover;
+}
+
+.ee .ee-build-pair figure:last-child img {
+  object-fit: contain;
+}
 </style>
 
 <div class="ee">
