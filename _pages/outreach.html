@@ -1,11 +1,20 @@
 ---
 title: "The Oakley Group - Outreach"
 layout: textlay
+excerpt: "The Electron Ejector is a carnival hi-striker that teaches the photoelectric effect."
 sitemap: false
 permalink: /outreach
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/css/electron-ejector.css">
+
+<style>
+  .ee-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+  .ee-gallery figure { margin: 0; }
+  .ee-gallery img { display: block; width: 100%; height: 300px; object-fit: cover; }
+  .ee-how-graphic { max-width: 560px; margin: 1.5rem auto; }
+  .ee-how-graphic img { display: block; width: 100%; height: auto; }
+</style>
 
 <div class="ee">
 
@@ -14,8 +23,9 @@ permalink: /outreach
 <!-- ========================= INTRO ========================= -->
 <section class="ee-intro">
   <div class="ee-intro-text">
-    <p class="ee-lead">The Electron Ejector looks like a carnival hi-striker, but don't smash it... all that counts is the colour of your hammer.</p>
-    <p>This is a portable demonstration of the photoelectric effect and wave-particle duality. Players pick a metal, then choose a hammer with a specific frequency (red, green, or violet light) and see whether it has enough energy to knock an electron free.</p>
+    <p class="ee-lead">The Electron Ejector looks like a carnival hi-striker, but it doesn't matter how hard you hit it. All that counts is the colour of your hammer.</p>
+    <p>It's a portable demonstration of the photoelectric effect and wave-particle duality. Players pick a metal, then choose a hammer that stands in for red, green, or violet light, and see whether it has enough energy to knock an electron free.</p>
+    <p>We built it to introduce the public to quantum science, and so that A-level students could try out ideas they usually only see on a whiteboard. The code, 3D models, and <a href="#build">build instructions</a> are all open, so you can make your own.</p>
   </div>
   <figure class="science-window ee-figure">
     <div class="window-bar"><span>imperial_lates.jpg</span><span>[−] [×]</span></div>
@@ -46,11 +56,12 @@ permalink: /outreach
       </div>
     </div>
   </div>
+  <noscript><p>The game needs JavaScript. The real one needs a hammer.</p></noscript>
 </section>
 
 <!-- ========================= PHYSICS ========================= -->
 <section class="ee-section">
-  <h2>The Photoelectric Effect</h2>
+  <h2>What's going on?</h2>
   <p>When light shines on a metal, electrons can escape from it. This is the photoelectric effect, and it was one of the first pieces of evidence for quantum theory. What you'd expect to happen depends on how you think light behaves.</p>
 
   <div class="ee-compare">
@@ -64,8 +75,15 @@ permalink: /outreach
     </div>
   </div>
 
-  <p>Experiments support the second picture. Below a threshold frequency, which is different for each metal, no electrons are ejected. But light also behaves like a wave, as when players look through a prism before picking up a hammer, dispersion spreads white light into a spectrum. Quantum theory brings both of these descriptions together.</p>
-  <p> Light-matter interactions are important in modern research, as X-ray photoelectron spectroscopy uses it to probe the composition and electronic structure of materials, and <a href="{{ site.baseurl }}/research">our own research</a> relies on this understanding.</p>
+  <p>Experiments support the second picture. Below a threshold frequency, which is different for each metal, no electrons come out at all. But light also behaves like a wave: when players look through a prism before picking up a hammer, dispersion spreads white light into a spectrum. We need both descriptions, and quantum theory brings them together.</p>
+
+  <figure class="science-window ee-figure ee-how-graphic">
+    <div class="window-bar"><span>how_it_works.png</span><span>[−] [×]</span></div>
+    <img src="{{ site.baseurl }}/images/electronejector/how_it_works.png" alt="Drawing of the Electron Ejector with potassium, caesium, and cerium on the select menu. Cerium is selected. The red and green hammers are marked with crosses, and the violet hammer has a tick and ejects an electron.">
+    <figcaption>On cerium, only the violet hammer has enough energy to eject an electron. Graphic by Reece Marsden.</figcaption>
+  </figure>
+
+  <p>The effect is still useful today. X-ray photoelectron spectroscopy uses it to probe the composition and electronic structure of materials, and <a href="{{ site.baseurl }}/research">our own research</a> on X-ray spectra also relies on understanding how light and matter interact.</p>
 </section>
 
 <!-- ========================= OUT IN THE WORLD ========================= -->
@@ -76,6 +94,42 @@ permalink: /outreach
     <li><time>May 2026</time><div><b>Bolton School</b><br>We spent a full lesson with an A-level physics class, using a gold-leaf electroscope, prisms, and the Electron Ejector. Students also looked at the electronics inside the machine and at the Python code.</div></li>
     <li><time>May 2026</time><div><b>Pint of Science, Manchester</b><br>We took it to the Building Next Generation Materials event, which around 50 people attended.</div></li>
   </ul>
+
+  <p>At a public stall, it takes about 10 minutes to go through the whole demonstration with a small group. Everyone gets a photon sticker to take home.</p>
+
+  <div class="ee-gallery">
+    <figure class="science-window ee-figure">
+      <div class="window-bar"><span>imperial_demo.jpg</span><span>[−] [×]</span></div>
+      <img src="{{ site.baseurl }}/images/electronejector/imperial_demo.jpg" alt="A team member talks to a group of visitors around the Electron Ejector at night, with cerium selected on the screen.">
+      <figcaption>Imperial Lates, October 2025.</figcaption>
+    </figure>
+    <figure class="science-window ee-figure">
+      <div class="window-bar"><span>pint_demo_1.jpg</span><span>[−] [×]</span></div>
+      <img src="{{ site.baseurl }}/images/electronejector/pint_demo_1.jpg" alt="Two people talk beside the glowing rainbow tower in a dimly lit room, one of them holding a hammer.">
+      <figcaption>Pint of Science, May 2026.</figcaption>
+    </figure>
+    <figure class="science-window ee-figure">
+      <div class="window-bar"><span>pint_demo_2.jpg</span><span>[−] [×]</span></div>
+      <img src="{{ site.baseurl }}/images/electronejector/pint_demo_2.jpg" alt="A woman smiles at the camera as she holds a hammer over the Hit button, in front of the lit tower.">
+      <figcaption>Pint of Science, May 2026.</figcaption>
+    </figure>
+  </div>
+
+  <h3 class="ee-sub">What students asked</h3>
+  <p>We could tell it was working from the questions students asked after they'd had a go:</p>
+  <div class="ee-quotes">
+    <blockquote>If light is only a wave, wouldn't bright enough light work?</blockquote>
+    <blockquote>Why didn't every hammer work?</blockquote>
+    <blockquote>What about electrons in different orbitals?</blockquote>
+  </div>
+
+  <h3 class="ee-sub">What people told us</h3>
+  <div class="ee-quotes">
+    <blockquote>You can't eject electrons from a banana</blockquote>
+    <blockquote>That ejecting electrons ain't easy</blockquote>
+    <blockquote>The sound effects are really fun and encouraging</blockquote>
+  </div>
+</section>
 
 <!-- ========================= BUILD ========================= -->
 <section class="ee-section" id="build">
@@ -95,11 +149,20 @@ permalink: /outreach
         <a href="https://github.com/meaganoak/electronejector">Code and 3D models on GitHub</a>
         <a href="https://doi.org/10.48420/34012971">Files at DOI 10.48420/34012971</a>
       </p>
+      <p>If you'd like our lesson slides, poster, or risk assessment, <a href="mailto:meagan.oakley@manchester.ac.uk">get in touch</a>.</p>
     </div>
     <div class="ee-build-images">
       <figure class="science-window ee-figure">
+        <div class="window-bar"><span>full_build.jpg</span><span>[−] [×]</span></div>
+        <img src="{{ site.baseurl }}/images/electronejector/full_build.jpg" alt="The finished Electron Ejector: a black tower with the logo on its screen, an unlit LED column, a Hit button on the base, a Select button, three coloured sockets, and red, green, and violet hammers on the floor.">
+      </figure>
+      <figure class="science-window ee-figure">
         <div class="window-bar"><span>model.jpg</span><span>[−] [×]</span></div>
         <img src="{{ site.baseurl }}/images/electronejector/model.jpg" alt="3D model of the tower and base, showing the screen mount, LED channel, and buttons.">
+      </figure>
+      <figure class="science-window ee-figure">
+        <div class="window-bar"><span>hammers.jpg</span><span>[−] [×]</span></div>
+        <img src="{{ site.baseurl }}/images/electronejector/hammers.jpg" alt="Red, green, and violet 3D-printed hammers on a bench, next to rolls of photon stickers.">
       </figure>
     </div>
   </div>
@@ -108,8 +171,8 @@ permalink: /outreach
 <!-- ========================= CREDITS ========================= -->
 <section class="ee-section ee-credits">
   <h2>Credits</h2>
-  <p>The Electron Ejector was created by Reece Marsden, Samilli Vasconcelos, Toby Thompson, Lana Francis, Aaron Zidichouski, and Meagan Oakley.</p>
-  <p>The work was funded by the QChem Project, run by the Imperial Centre for Quantum Engineering, Science and Technology (QuEST) and funded by the Royal Society of Chemistry.</p>
+  <p>The Electron Ejector was created by Reece Marsden, Samilli Vasconcelos, Toby Thompson, Lana Francis, Aaron Zidichouski (PrintCity, Manchester Metropolitan University), and Meagan Oakley.</p>
+  <p>It was part of the QChem Project, run by the Imperial Centre for Quantum Engineering, Science and Technology (QuEST) and funded by the Royal Society of Chemistry. With thanks to Dr Kristy Turner, and to Brendan Ickringill and his A-level physics class at Bolton School.</p>
 </section>
 
 </div>
