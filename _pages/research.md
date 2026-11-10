@@ -179,6 +179,7 @@ We combine electronic structure theory with experiment to understand magnetic an
 </p>
 
 <p>
+<a href="https://doi.org/10.1021/acs.inorgchem.6c04282"><em>Inorganic Chemistry</em></a>, <strong>2026</strong>, <em>65</em> (44), 26101-26112.<br>
 <a href="https://doi.org/10.1021/jacs.5c13255"><em>Journal of the American Chemical Society</em></a>, <strong>2026</strong>, <em>148</em>, 2942–2953.<br>
 <a href="https://doi.org/10.1021/acs.inorgchem.6c01375"><em>Inorganic Chemistry</em></a>, <strong>2026</strong>, <em>65</em>, 12541–12556.<br>
 <a href="https://doi.org/10.1039/D3SC06175B"><em>Chemical Science</em></a>, <strong>2024</strong>, <em>15</em>, 3003–3010.
@@ -192,15 +193,15 @@ We combine electronic structure theory with experiment to understand magnetic an
 
 <div class="window-bar" style="display:table; width:100%; box-sizing:border-box;">
   <div style="display:table-cell; text-align:left;">
-    hyscore_toc.png
+    ansmm_toc.png
   </div>
   <div style="display:table-cell; text-align:right;">
     [−] [×]
   </div>
 </div>
 
-<img src="/images/hyperfine2.png"
-  alt="Magnetism of f-element complexes"
+<img src="/images/ansmm.jpeg"
+  alt=""
   style="display:block; width:100%; height:auto;">
 
 </div>
